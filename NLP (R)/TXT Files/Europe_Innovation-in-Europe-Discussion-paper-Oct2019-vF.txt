@@ -1,0 +1,1797 @@
+Innovation
+in Europe
+Changing the game to regain a competitive edge
+
+Discussion paper
+October 2019
+Authors
+Jacques Bughin, Brussels
+Eckart Windhagen, Frankfurt
+Sven Smit, Amsterdam
+Jan Mischke, Zurich
+Pal Erik Sjatil, Paris
+Bernhard Gürich, Hamburg
+
+McKinsey Global Institute
+
+Since its founding in 1990, the McKinsey Global Institute (MGI) has sought to develop a
+deeper understanding of the evolving global economy. As the business and economics
+research arm of McKinsey & Company, MGI aims to provide leaders in the commercial,
+public, and social sectors with the facts and insights on which to base management and
+policy decisions.
+MGI research combines the disciplines of economics and management, employing the
+analytical tools of economics with the insights of business leaders. Our “micro-to-macro”
+methodology examines microeconomic industry trends to better understand the broad
+macroeconomic forces affecting business strategy and public policy. MGI’s in-depth reports
+have covered more than 20 countries and 30 industries. Current research focuses on six
+themes: productivity and growth, natural resources, labor markets, the evolution of global
+financial markets, the economic impact of technology and innovation, and urbanization.
+Recent reports have assessed the digital economy, the impact of AI and automation on
+employment, income inequality, the productivity puzzle, the economic benefits of tackling
+gender inequality, a new era of global competition, Chinese innovation, and digital and
+financial globalization.
+MGI is led by four McKinsey & Company senior partners: Jacques Bughin, Jonathan
+Woetzel, as well as James Manyika and Sven Smit, who also serve as co-chairs of MGI.
+Michael Chui, Susan Lund, Anu Madgavkar, Jan Mischke, Sree Ramaswamy, and Jaana
+Remes are MGI partners, and Mekala Krishnan and Jeongmin Seong are MGI senior
+fellows. Project teams are led by the MGI partners and a group of senior fellows and include
+consultants from McKinsey offices around the world. These teams draw on McKinsey’s
+global network of partners and industry and management experts. The MGI Council, which
+includes leaders from McKinsey offices around the world and the Firm’s sector practices,
+includes Michael Birshan, Andrés Cadena, Sandrine Devillard, André Dua, Kweilin Ellingrud,
+Tarek Elmasry, Katy George, Rajat Gupta, Eric Hazan, Acha Leke, Scott Nyquist, Gary Pinkus,
+Sven Smit, Oliver Tonby, and Eckart Windhagen. In addition, leading economists, including
+Nobel laureates, advise MGI research.
+The partners of McKinsey fund MGI’s research; it is not commissioned by any business,
+government, or other institution. For further information about MGI and to download reports,
+please visit www.mckinsey.com/mgi.
+
+ii
+
+McKinsey Global Institute
+
+Contents
+
+In brief
+
+2
+
+1. Europe’s innovation challenge and the need to change the rules of the game
+
+3
+
+The European economy needs a productivity boost from innovation
+and diffusion of digital and new frontier technologies to support growth
+
+4
+
+While Europe still has considerable strengths, it is falling behind
+in adopting and investing in general and digital innovation
+
+6
+
+The rise of global platforms and “superstars” drives the need
+to change the rules of the game
+
+10
+
+2. Five ways in which Europe could scale its game
+
+15
+
+1. Europe can draw on its industrial strength to benefit from its scale
+and the diffusion of technologies across supply chains
+
+15
+
+2. Europe can rethink data and user access and standards to level
+the playing field, protect citizens’ data, and connect data pools
+
+18
+
+3. Europe can use its substantial public-sector procurement scale
+to propel innovation of digital goods and services
+
+19
+
+4. Europe can try to compensate for fragmentation with openness
+and connectedness, including by altering high-skill immigration flows
+and connecting local ecosystems
+
+20
+
+5. Europe can leverage the scale of global firms to its benefit
+
+22
+
+Acknowledgments
+
+24
+
+Related MGI and McKinsey research
+
+25
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+1
+
+In brief
+
+Innovation in Europe:
+Changing the game to regain
+a competitive edge
+Europe a century ago was the global powerhouse of innovation, but it has largely lost its edge: today,
+despite some notable exceptions, most innovation and innovative companies are found elsewhere.
+Europe is falling behind in growing sectors as well as in areas of innovation such as genomics,
+quantum computing, and artificial intelligence, where it is being outpaced by the United States and
+China. This discussion paper suggests five paths for the continent to regain its competitive edge,
+not by trying to play catch-up while hindered by fragmentation and lack of scale, but by changing the
+game to build on its strengths. Key findings:
+—— Europe’s economies, which have struggled to recover growth momentum in the past decade,
+need the productivity growth boost and innovation surge that frontier technologies such as
+synthetic biology, in the medium term, and digital and artificial intelligence in the shorter term, can
+unleash. Digitization could boost productivity growth by more than one percentage point annually,
+and Europe could potentially add $2.7 trillion to its economic output by 2030 if it were to develop
+AI according to its current assets and relative position in digital technology in the world. Innovation
+is essential to build demand for higher-skill and better-paid jobs and limit potential inequality
+from the adoption of new-frontier technologies. Innovation is traditionally fueled by scaling
+investments, and it generates better rewards if targeted toward rising sectors and assets.
+—— While Europe has the largest public R&D spend, its private investment in research and
+development amounts to just 19 percent of the global total, behind China at 24 percent and the
+United States at 28 percent. The continent invests 1.7 percentage points of GDP less than the
+United States in key intangible assets like software, databases, and intellectual property. Its
+R&D share in software and computer services is only about 8 percent of the global total. Europe
+especially lags in investment in frontier technologies; 90 percent of investment in synthetic
+biology has been made in the United States, for example, while the European continent generates
+only half as many patents per capita as the United States in digital, quantum computing, and
+big data.
+—— The stakes for those falling behind are rising as the global economy enters a “superstar” era in
+which scale can become a differentiating factor and winners reap disproportionate gains. This
+affects innovation: superstar firms show more than double the R&D intensity of median firms, and
+about two-thirds of global R&D investment is concentrated in just 250 companies. Yet European
+firms are finding it difficult to achieve this scale. The European share of large global companies
+in the top decile for economic profit dropped by about half between 1995 and 2016 to only
+16 percent, while it remained constant for the United States and Canada and rose sharply for
+Asian firms. Europe notably lacks global digital platforms.
+—— Europe may face a structural disadvantage of fragmentation which no silver bullet can help
+address. Alongside many actions already debated or enacted, including the Digital Single Market,
+we see five themes that could capitalize on recent trends and play to Europe’s strengths. First,
+Europe could harness scale in its strong industrial footprint to enable firms to benefit from the
+diffusion of technologies across supply chains. Second, Europe could rethink data and user
+access to level the playing field for innovative firms vis-à-vis global-scale data platforms, protect
+the data of citizens, and connect data pools. Third, it could leverage its substantial scale of
+public-sector procurement to build up digital prowess. Fourth, it could aim to compensate for
+fragmentation with greater openness, standardization, and mobility, including better connection
+of local ecosystems, and by benefiting from the geopolitical climate to attract high-skill
+immigrants. Finally, Europe could more actively leverage the scale of global firms to its benefit,
+creating conditions to attract a higher share of their activities and letting them compete.
+2
+
+McKinsey Global Institute
+
+1. Europe’s innovation
+challenge and the
+need to change the
+rules of the game
+Innovation’s role as a key driver of economic growth has been confirmed by multiple studies
+following early seminal works of economists such as Joseph Schumpeter and, more recently,
+Richard Nelson and Kenneth Arrow.1 At the firm level, innovation generates new markets
+and builds stronger competitiveness. At the aggregate level, innovation creates additional
+knowledge spillovers and increases favorable industrial dynamics that lead to greater
+efficiency and higher growth. In general, innovation benefits go beyond productivity and can
+improve welfare through channels such as lower morbidity and longer longevity; about onethird of the increase in longevity in Europe, for instance, is due to pharmaceutical innovation.2
+Europe has long been an important driver of worldwide innovation. Given its relatively high
+wage costs and low reliance on natural resources, the importance of innovation to the
+continent’s economic and social system is clear. While European companies still account for
+one-quarter of total industrial R&D in the world, over the past ten years US companies have
+continued to increase their share, reinforcing their leadership position, and China and South
+Korea have been catching up. Such competition challenges the ability of Europe to sustain its
+growth model over the long term. 3
+A survey we conducted of large firms shows that innovators who are first to introduce new
+products and services to the market experience significantly higher revenue growth. Yet the
+share of European companies that consider themselves true innovators is notably lower than
+in the United States (Exhibit 1). 4
+Moreover, Europe’s ability to innovate is somewhat misallocated among and within member
+states and sectors. For example, looking at sectors with high R&D intensity such as ICT,
+pharmaceuticals, or advanced manufacturing, Europe tends to have both a lower number of
+large firms and good R&D intensity compared to the United States. However, this success
+is biased toward more traditional and challenged sub-segments than toward growing ones,
+for example focusing on hardware rather than software, traditional ICT versus digital ICT,
+
+1
+
+2
+
+3
+4
+
+See Joseph Schumpeter, The Theory of Economic Development, 1911; Philippe Aghion and Peter Howitt, “A model of
+growth through creative destruction,” Econometrica, Volume 60, Number 2, 1992; Richard Nelson, “The simple economics
+of basic scientific research,” Journal of Political Economy, June 1959, Volume 67, Number 3; and Kenneth Arrow, “The
+economic implications of learning by doing,” Review of Economic Studies, June 1962, Volume 29, Number 3.
+Tech for good: Smoothing disruption, improving well-being, McKinsey Global Institute, May 2019; Frank R. Lichtenberg,
+“The impact of biomedical innovation on longevity and health,” Nordic Journal of Health Economics, 2017, Volume 5,
+Number 1; and William D. Nordhaus, The health of nations: The contribution of improved health to living standards, NBER
+working paper number 8818, March 2002.
+Pietro Moncada-Paternò-Castello and Hector Hernandez, “Ten-year evolution of EU industrial R&D in the global context,”
+JRC Policy Insights, Iritec Briefs Series issue number 6, European Commission, July 2018.
+These figures are consistent with recent research from the European Investment Bank, which finds more striking
+differences between US and European companies: only 8 percent of European firms are leading innovators that invest
+in R&D and deploy new products, services, and processes on this basis, compared with 16 percent of companies in the
+United States. Investment report 2018/2019: Retooling Europe’s economy, European Investment Bank, 2018.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+3
+
+Exhibit 1
+
+Europe lags behind the United States in disruptive innovation.
+Share of executives agreeing or disagreeing strongly that their company is an innovator with first-to-market products
+and services; %
+Strongly agree
+
+Strongly disagree
+13
+
+European respondents
+
+Ratio
+
+1.6
+
+8
+16
+
+US respondents
+
+2.3
+
+7
+
+Source: McKinsey Global Digital Survey 2018, sample of 1,600 firms; McKinsey Global Institute analysis
+
+and traditional pharmaceuticals rather than biotechnology. 5 In the past decade, EU countries
+performing at lower levels and those performing at higher levels have not converged;
+innovation performance has even decreased in ten out of the 28 EU members, notably in
+the East.6
+Finally, despite its long tradition of inventiveness and talent, Europe is increasingly challenged
+by the next generation of frontier technologies. While it seems well placed in some areas
+that are key in the innovation race, such as talent and public-sector research, it is falling
+behind in others, notably in the amount of frontier tech investment, in digital technologies
+such as AI, in ICT including quantum computing, and in genomics and synthetic biology. In
+engineering, for example, graphene is a revolutionary material but most patents for now
+are Chinese. In synthetic biology, investments are mostly flowing to key US centers such as
+Boston and Silicon Valley, while European investment is rather limited, except in Belgium
+and the United Kingdom. Europe is also not gaining a proportionate share of major industrial
+companies in growing sectors linked to digital value chains, even as global Chinese and
+American platform companies are becoming increasingly dominant in a digital-first world. The
+emergence of a “superstar effect,” which sees most of the gains of this new era captured by
+a small number of strong companies, raises the stakes even higher for Europe to rise to the
+innovation challenge.
+This paper aims to further the discussion about how Europe can regain its competitive edge.
+The first section provides a snapshot of where Europe stands in the context of this innovation
+race. The second section offers five paths for the continent to renew its tradition of innovation,
+not by playing catch-up on typical innovation policies, but by building on existing strengths
+to change the rules of the game and address its structural scale disadvantage. The paper
+draws on a body of recent research by the McKinsey Global Institute as well as on a recent
+collaboration with the World Economic Forum.7
+
+The European economy needs a productivity boost from innovation and
+diffusion of digital and new frontier technologies to support growth
+The European economy has regained momentum recently after years of sluggish growth, but
+the short- to medium-term outlook remains fragile, and the continent’s productivity growth
+has declined sharply over the past two decades. Increasingly, Europe’s economic prospects
+
+5
+6
+7
+
+4
+
+Pietro Moncada-Paternò-Castello, Evolution of EU corporate R&D in the global economy: Intensity gap, sectors’ dyamics,
+specialisation, and growth, PhD thesis, Solvay Brussels School of Economics and Management, October 2017.
+European Innovation Scorecard, European Commission, ec.europa.eu/docsroom/documents/30201.
+Innovate Europe: Competing for global innovation leadership, World Economic Forum, January 2019.
+
+McKinsey Global Institute
+
+depend on innovation in general, and especially digital and new frontier technologies and the
+productivity boost they could provide at a time when changing demographics are acting as a
+drag on growth; in some European countries, the working-age population is declining.
+GDP growth of the EU-27 reached 2.6 percent in 2017, the fastest pace in a decade. While
+growth continued at an expected rate of 2.2 percent through 2018, the outlook for 2019 and
+2020 is more cautious. 8 Real labor productivity grew by 0.9 percent year-on-year in 2017, the
+same as in 2016, and at a compound annual growth rate of just about 0.8 percent since 2010.9
+Information and communications technology (ICT) and digitization have already been shown
+to contribute to economic growth, demonstrating in passing that Europe has been lagging
+behind the United States.10 The next wave of frontier technologies, including artificial
+intelligence, Internet of Things, blockchain, high-power computing, and the integration of
+biology and engineering, has the potential to deliver the breakthrough in productivity that
+Europe needs.11 We calculate that more than one percentage point of productivity growth
+could result from exploiting those digital opportunities alone.12 Synthetic biology, and life
+science more broadly, is already demonstrating major breakthroughs including decoding
+the genome, the use of biology for effective and nonpolluting batteries, and computer
+engineering of crops, among others.13 These all have the potential to increase productivity
+or welfare, due to better quality and longer life in healthcare, and could also help fight
+pollution.14 How such innovations will scale and how they can be used ethically will still need to
+be addressed.
+In general, the field of innovation and productivity throughput is closely linked to digital
+frontier technologies such as AI. In that respect, we estimate that if European companies were
+to develop and diffuse AI according to the continent’s current assets and relative position in
+digital technology in the world, Europe could add €2.7 trillion to its economic output by 2030.
+(This estimate assumes limited friction in the socioeconomic transition of those technologies,
+and does not include possible pressure points that may arise from rising inequality due
+to different skill use linked to these technologies.)15 The diffusion of technologies to other
+markets and sectors can create significant spillover effects and a virtuous link between
+innovation and growth.16 Closing the gap with the United States in innovating at the digital
+frontier and in facilitating faster adoption of AI could add €900 billion, bringing the total
+potential boost to about €3.6 trillion.17
+Innovation will also be needed to counter frictions and adjustment challenges in the labor
+market from automation. According to our analysis, 62 million full-time employee equivalents
+and more than $1.9 trillion in wages might be associated with technically automatable
+activities in the five largest European economies.18 However, an important way to reduce
+the risk of wage and employment pressure is to innovate in new products and services that
+require new and high-demand skills. We find that firms anticipating innovative models out of
+AI have the largest propensity to expand their workforce; companies have a relatively large
+
+8
+9
+10
+11
+
+12
+13
+14
+
+15
+16
+17
+18
+
+Autumn 2018 economic forecast, European Commission, November 2018.
+Calculations based on Eurostat data for real labor productivity per person for the EU-27 countries.
+See Digital America: A tale of the haves and have-mores, McKinsey Global Institute, December 2015, and Digital Europe:
+Pushing the frontier, capturing the benefits, McKinsey Global Institute, June 2016.
+For an overview of AI technologies and use cases, see The age of analytics: Competing in a data-driven world, McKinsey
+Global Institute, December 2016; What’s now and next in analytics, AI, and automation, McKinsey Global Institute,
+May 2017; and Notes from the AI frontier: Insights from hundreds of use cases, McKinsey Global Institute, April 2018.
+Solving the productivity puzzle: The role of demand and the promise of digitization, McKinsey Global Institute, February
+2018.
+Susan Hockfield, The age of living machines: How biology will build the next tech revolution, Norton Publishing, 2019.
+Hugh Goold, Philip Wright, and Deborah Hailstones, “Emerging opportunities for synthetic biology in agriculture,” Genes,
+July 2018, Volume 9, Number 7; Eric Topol, Deep medicine: How artificial intelligence can make healthcare human again,
+Basic Books, 2019; Rossana Liguori and Vincenza Faraco, “Biological processes for advancing lignocellulosic waste
+biorefinery by advocating circular economy,” Bioresource Technology, 2016; and Synthetic biology as a driver of the
+circular economy, Sitra.fi.
+Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.
+See Reinhilde Veugelers, Missing convergence in innovation capacity in the EU: Facts and policy implications, European
+Commission discussion paper number 066, July 2017.
+Ibid.
+France, Germany, Italy, Spain, and the United Kingdom. A future that works: Automation, employment, and productivity,
+McKinsey Global Institute, January 2017.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+5
+
+incentive to upgrade skills in order not to miss out on opportunities.19 Demand for workers
+when diffusing AI tends to be reduced when the scope to invest in AI technologies is limited,
+where the focus is placed on efficiency and process improvements in both labor and capital,
+and where product and service innovations are less prevalent (Exhibit 2).
+Exhibit 2
+
+AI can have a positive effect on firm employment when it is connected with new products
+and services; plans to invest in AI for efficiency alone can lead to planned reductions in
+employment.
+Impact of AI investment on corporations
+Odd ratio1 (n=2,850 firms)
+
+Investment in AI-based
+labor automation tools
+
+0.16
+
+Investment in AI-based
+preventive maintenance
+
+0.33
+
+Investment in AI-based
+new products and services
+
+3.10
+
+An odd ratio is defined as the odds that an outcome will occur given a particular exposure, compared to the odds of the outcome occurring in the
+absence of that exposure. In this example, the exposure is different types of AI investment and the outcome is employment changes. An odds ratio
+of 1 means that the exposure does not affect the outcome; an odds ratio of >1 means that the exposure is associated with higher odds of outcome.
+Source: McKinsey Global Digital Survey 2018; McKinsey Global Institute analysis
+1
+
+While Europe still has considerable strengths, it is falling behind in
+adopting and investing in general and digital innovation
+Beyond the first wave of digitization, Europe’s startup scene is thriving: the number of AI
+startups has tripled in the past three years and is now relatively comparable to the figure for
+the United States on a per GDP basis.20 Early-stage startups are better financed than ever
+before. Investment in European tech is at a record high, with $23 billion invested last year, a
+five-year increase of 360 percent and an increase of 21 percent compared to 2017.
+In talent, too, Europe has long been a research powerhouse. Its research community is
+larger, but also more diffused, than that in the United States or in China. The tech workforce
+employed by startups is growing; it expanded by about 4 percent in 2018. The number of
+European software developers, a key resource for many innovative technologies, has grown at
+a rate of 4 to 5 percent in the past two years, culminating in a total of 5.7 million professionals
+today, well ahead of the United States, with 4.4 million professional software developers. 21
+Yet in some key innovation areas, Europe is falling behind (Exhibit 3). And there is evidence
+that nontraditional factors, which include the ability to build innovative business models,
+
+19
+20
+21
+
+6
+
+Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.
+Ibid.
+Retraining and reskilling workers in the age of automation, McKinsey Global Institute, January 2018; Tackling Europe’s
+gap in digital and AI, McKinsey Global Institute, February 2019; and The state of European tech 2018, Atomico,
+December 2018.
+
+McKinsey Global Institute
+
+Exhibit 3
+
+Europe is lagging behind on many well-known elements of innovation.
+Europe’s position
+
+Supply
+
+Lagging
+
+Demand
+
+Innovation scales up
+to new markets
+
+Vibrant innovation
+networks
+and academia
+
+4%
+
+Mixed
+
+Diffusion
+
+Entrepreneurs stand up and
+start up with innovative idea
+
+~1/3
+
+Primarily positive
+
+Innovation demanded by
+more and more customers
+
+Diffusion by SMEs
+
+Private customer
+demand
+
+of high-quality research
+publications are
+European
+
+Diffusion by incumbents
+
+of consumers bought
+online in 2014;
+315 million Europeans
+use internet every day
+
+Talented entrepreneurs
+
+of digital potential
+reached by European
+firms compared to US
+counterparts
+
+Demand in public
+sector/organizations
+through procurement
+
+Diffusion by public
+sector
+
+14%
+
+of European GDP goes
+to procurement, but only
+a fraction into innovative
+technologies
+
+15%
+
+of European households
+have broadband speeds
+>100 Mb/s
+
+~2/3
+
+growth of European
+tech workforce in
+startups in 2018
+
+Sufficient seed and
+growth funding
+
+Sufficient public and
+private R&D spending
+and investment in
+intangibles
+
+~50%
+
+of European government
+services are digitized
+
+21%
+
+increase in tech
+investment from 2017 to
+2018
+
+~7%
+
+of GDP invested in
+intangibles 2000–13,
+1.7 p.p. less than
+United States
+
+>50%
+
+Digital infrastructure and connectedness (eg, platforms, data
+interfaces, accessibility)
+
+Market design and regulatory framework that foster and shape
+supply, diffusion, and demand (eg, reduction of market barriers,
+copyright, technology standards, etc)
+
+81
+
+different VAT
+regimes within the
+European Union
+
+Source: World Economic Forum; Atomico; European Commission; European Court of Auditors; McKinsey Global Institute analysis
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+7
+
+strong public-private partnerships in innovation hubs, and the depth of existing technological
+capabilities and portfolios, become more relevant.22
+Equity finance as a key driver for innovation and digital investment remains underdeveloped,
+with 90 percent of the European Union’s venture capital funding concentrated in only eight
+member states.23 This creates a challenge for European companies that seek funding for
+fast growth. The importance of funding is evidenced by an analysis we conducted on factors
+relevant for the density of European AI startups; comparing elasticities, we find that financing
+has a significantly higher impact on dense AI startup networks than other important factors,
+such as human capital and the ability to build innovative business models. Risk capital is also
+gaining in importance as intangibles have exceeded tangible investments in size, but they are
+difficult to collateralize.
+More broadly, much of Europe has lagged behind the United States and others in measures
+of general innovation due to a lack of investment and economic competencies. Europe
+invests significantly less than the United States in intangibles like software and databases,
+intellectual property, and economic competencies like organizational capital and training,
+which represent major factors for innovation capacity (Exhibit 4). Beyond the gap in R&D
+and intellectual property investment, a material gap has also opened up in economic
+competencies. These have been shown to be an increasingly relevant complement to digital
+investment and innovation.24 Europe also has significantly lower management practice scores
+than the United States.25
+Exhibit 4
+
+Europe lags behind the United States in intangible investment.
+Computerized information
+
+Intellectual property
+
+Tangible investment,
+% GDP, avg 2000–13
+
+Intangible asset investment,
+% GDP, avg 2000–13
+
+US
+
+EU-141
+
+1
+
+1.6
+
+1.3
+
+3.5
+
+2.6
+
+Economic competencies
+
+8.8
+
+3.7
+
+3.2
+
+7.1
+
+7.7
+
+9.2
+
+EU-14 includes Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Netherlands, Portugal, Spain, Sweden, and United
+Kingdom.
+
+Source: Carol Corrado et al., Intangible investment in the US and EU before and since the Great Recession and its contribution to productivity
+growth, European Investment Bank, 2018; also see Corrado, Hulten, and Sichel, Measuring capital and technology: An expanded framework, NBER,
+August 2005; McKinsey Global Institute analysis
+
+22
+23
+24
+25
+
+8
+
+Jacques Bughin, “How to develop enough European AI startups,” VoxEU.org, February 2019.
+Investment report 2018/2019: Retooling Europe’s economy, European Investment Bank, 2018.
+Ibid.
+Nicholas Bloom et al., Management practices across firms and countries, NBER working paper number 17850, February
+2012.
+
+McKinsey Global Institute
+
+In addition to the general innovation lag, digital adoption has been slower in Europe than in
+competing regions. Both digital attacker and incumbent shares of revenue are significantly
+smaller than in the United States (Exhibit 5). Consequently, Europe’s gap in digitization
+remains at about one-third the level in the United States and has not changed much in recent
+years.26 Furthermore, European companies are less mature in their state of diffusion of digital
+technologies and in their use of these technologies for innovation, namely new services,
+processes, or business models. Research confirms that diffusion of technologies to firms
+that are technological laggards typically happens only after these technologies are adapted
+to country-specific circumstances by the most productive firms within each country.27
+Consequently, Europe has long had a negative trade balance with the rest of the world
+in digital.28
+Exhibit 5
+
+Europe’s digitization is less advanced than that of the United States.
+Typical industry split,
+% of revenue
+
+Nondigital revenue,
+incumbents
+
+Digital revenue,
+incumbents
+
+Digital revenue
+from adjacencies
+
+Digital revenue from
+new digital startups
+
+Europe
+
+United States
+7
+
+7
+
+7
+
+4
+
+17
+
+24
+
+100% =
+revenue out of
+350 companies
+
+100% =
+revenue out of
+650 companies
+62
+72
+
+Source: McKinsey Global Digital Survey 2017; McKinsey Global Institute analysis
+
+26
+
+27
+28
+
+Digitization is measured by companies’ weighted deployment of digital assets, labor, and practices across all sectors,
+compared with the most digitized sector. Digital America: A tale of the haves and have-mores, McKinsey Global Institute,
+December 2015. See also Digital Europe: Pushing the frontier, capturing the benefits, McKinsey Global Institute, June
+2016, and Notes from the AI frontier: Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.
+Davide Castellani et al., The source of the US/EU productivity gap: Less and less effective R&D, LEM Papers Series
+2018/16, Laboratory of Economics and Management (LEM), Sant’Anna School of Advanced Studies, 2018.
+A window of opportunity for Europe, McKinsey Global Institute, June 2015.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+9
+
+In terms of open innovation, while Europe remains a leader in scientific cross-border
+co-publications, it can do more to build open innovation networks, including promoting
+researcher mobility, business collaborations, and open science.29
+Europe’s innovation deficit is due in part to the often-cited difficulty of growing young
+companies into world leaders, notably in digital as well as in the health sector.30 Health is
+widely expected to gain from frontier technologies, and it accounts for the largest share
+of capital funding linked to AI-based innovation globally. European companies are notably
+lagging behind international rivals from Apple to Tencent. 31 The same is true of omics fields,
+where most R&D spent in health linked to frontier technologies is to be found in the Boston
+and San Francisco clusters. 32 One challenge appears to be Europe’s ability to scale startups
+into major companies. For example, it has transformed digital promises into success with
+“unicorns”—privately held startups valued at more than $1 billion—at only about half the rate
+seen in the United States or even Tel Aviv.
+Europe is also becoming less central to international flows even as they matter more and as
+digital technologies are becoming a powerful driver of the performance of global firms. The
+United States remains the most central node of all flows, even if its importance has decreased
+in the past 15 years. Europe’s centrality is declining rapidly, particularly in digital, with a lower
+presence of digital platforms and of most digitized sectors. Within Europe, a new order has
+started to develop, with a significant decline in the importance of small digitally advanced
+countries such as the Scandinavian nations, and a robust catch-up by the Netherlands,
+Germany, and, to a lesser extent, the United Kingdom. 33
+
+The rise of global platforms and “superstars” drives the need to change
+the rules of the game
+With intangible investment eclipsing the tangible kind, the rise of platforms and the ability
+to scale and to do so quickly seem to matter more for a significant part of the innovation
+ecosystem. 34 Despite efforts to establish a Single Market, Europe remains fragmented, with
+many national legislations and systems of regulations and VAT, which are all hard to change,
+and many mostly domestic companies.
+“Superstars,” which we define as the top 10 percent of companies with more than $1 billion in
+annual revenue, as measured by economic profit, are gaining importance. Our research finds
+that today’s superstar firms earn 1.6 times more economic profit on average than superstar
+firms 20 years ago. 35 We find that while most firms capture near-zero economic profit,
+superstar firms, which are seven times larger by revenue than median firms, have returns
+on investments that are twice as high. 36 In addition to capturing a greater share of income,
+they exhibit relatively higher levels of digitization, greater input of skilled labor and a higher
+innovation intensity, more intangible assets, and deeper integration into global flows of trade,
+finance, and services than their peers. In fact, their investment in R&D as a share of revenue
+
+29
+30
+31
+
+32
+33
+34
+
+35
+36
+
+10
+
+Science, Research and Innovation Performance of the EU 2018: Strengthening the foundations for Europe’s future,
+European Commission, January 2018.
+Reinhilde Veugelers and Michele Cincera, “Young leading innovators and the EU’s R&D intensity gap,” Bruegel Policy
+Contribution, September 2010.
+Since Tencent’s Miying healthcare AI platform launched in 2017, the company has focused R&D on it, including in areas
+such as AI-assisted imaging and diagnostic services. Tencent recently participated in drug discovery with Baidu Ventures,
+Google, and Sequoia Capital China. See https://www.cbinsights.com/research/china-baidu-alibaba-tencent-artificialintelligence-dominance/.
+About 30 percent of investment in synthetic biology today is on healthcare applications. See Synthetic biology annual
+report, SynBioBeta, September 2018.
+Jacques Bughin and Susan Lund, “The ascendancy of digital flows,” CEPR Policy Portal, VoxEU.org, January 9, 2017,
+voxeu.org/article/ascendancy-international-data-flows.
+As the Organisation for Economic Co-operation and Development notes, there is also an opposing dynamic at play, in that
+small companies can innovate and scale much more easily on top of digital platforms and by creating scale without mass.
+We are focusing in this paper on the scale aspect. See Digital innovation: Seizing policy opportunities, OECD, 2019,
+doi.org/10.1787/a298dc87-en.
+“Superstars”: The dynamics of firms, sectors, and cities leading the global economy, McKinsey Global Institute, October
+2018.
+Ibid.
+
+McKinsey Global Institute
+
+is more than double the median firm’s. And financially strong firms have a higher probability of
+generating innovations from their R&D investment. 37
+Going forward, evidence shows that value will continue to shift to large and boldly moving
+companies. 38 Our research shows that digitally savvy companies are 15 to 25 percent more
+likely to use new technologies such as AI (the range reflects differences by sector), which
+could widen the gap as we enter the next phase of innovation. 39 In AI, for example, frontrunners will benefit from innovations enabling them to serve and create new markets and, at
+the same time, gain share from non-AI adopters in existing markets. 40 Simulations find that
+early diffusers and implementers—companies that will use a full suite of AI technologies in the
+next five years—can double their normal profits by 2030, bringing in an additional 4 percent of
+gross profit growth annually at the expense of their competitors. 41
+Yet Europe has started falling back in its share of superstars. Over the past 20 years, Europe’s
+share of superstars globally dropped by about 50 percent, while it remained constant for the
+United States and Canada and increased significantly for the Asia–Pacific region (Exhibit 6). 42
+R&D also is becoming increasingly concentrated, and Europe is losing share, particularly in
+digital sectors. 43 Only 250 companies generate close to two-thirds of global business R&D
+investment. In this group, while European automotive players dominate, European companies’
+R&D spending by software and computer services firms was only about 8 percent of the
+global total, well below 11 percent for Chinese companies and far behind the 77 percent for
+US-based companies in 2018 (Exhibit 7). 44
+Furthermore, the trend is negative. Over the past five years, the global share of European
+companies’ total R&D spending has declined by more than two percentage points, while the
+share of US companies climbed by more than two percentage points and the share of Chinese
+companies by six percentage points. 45 The share of European companies among those newly
+joining the ranks of the 2,500 largest R&D investors decreased to about 12 percent, only
+about half the share of Chinese firms and one-third the share of US companies. 46
+Europe’s innovators are also older. In fact, almost the entire R&D difference between Europe
+and the United States can be explained by the difference in number and average spend
+by young leading innovators—firms founded after 1975 that rank among the top global
+R&D spenders. 47
+Large US and Chinese tech and platform companies, in turn, are gaining importance.
+US-based tech companies invest more in R&D than their US peers in the S&P 500, with
+the six largest—Amazon, Apple, Facebook, Google, Microsoft, and Netflix—spending about
+€43 billion on R&D in 2018, and €31.6 billion on acquisitions in 2017 alone. 48 Google, the
+most active among them, spent $12.6 billion on acquiring more than 300 startups between
+2013 and 2018. 49 In contrast, Europe was almost inactive in tech R&D and possesses only half
+
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+
+Bettina Peters, Mark J. Roberts, and Van Anh Vuong, “Dynamic R&D choice and the impact of the firm’s financial
+strength,” Economics of Innovation and New Technology, 2017, Volume 26, Issue 1–2, pp. 134–49.
+Jacques Bughin, Tanguy Catlin, Martin Hirt, and Paul Willmott, “Why digital strategies fail,” McKinsey Quarterly, January
+2018.
+Notes from the AI frontier: Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.
+Jacques Bughin and Jeongmin Seong, “How competition is driving AI’s rapid adoption,” Harvard Business Review,
+October 2018.
+Jacques Bughin, “Wait-and-see could be a costly AI strategy,” MIT Sloan Management Review, June 2018.
+“Superstars”: The dynamics of firms, sectors, and cities leading the global economy, McKinsey Global Institute, October
+2018.
+Reinhilde Veugelers, Are European firms falling behind in the global corporate research race?, Bruegel Policy
+Contribution number 6, April 2018.
+This calculation refers to the global top 250 R&D spenders. In the broader sample of the top 2,500 firms, Europe stands at
+10 percent.
+McKinsey Global Institute analysis based on the 2014 and 2018 editions of the EU Industrial R&D Investment Scoreboard.
+Investment report 2018/2019: Retooling Europe’s economy, European Investment Bank, 2018.
+Reinhilde Veugelers and Michele Cincera, Europe’s missing yollies, Bruegel policy brief, August 2010.
+“Into the danger zone: American tech giants are making life tough for startups,” Economist, June 2018.
+Ibid.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+11
+
+Exhibit 6
+
+Superstars seem to matter for innovation, yet Europe is losing share.
+R&D intensity, superstars vs others
+R&D spend as % of revenue by economic profit decile
+
+1.2
+
+0.36x
+
+Multiple of median
+In bottom 10%
+
+3.4
+
+Median
+2.03x
+
+7.0
+
+In top 10%
+2.88x
+
+9.9
+
+In top 1%
+
+Regional representation of firms within the top 1% of economic profit, %
+
+10
+
+16
+
+4
+
+4
+
+12
+
+Western Europe
+32
+-50
+
+United States and Canada
+Latin America
+Asia–Pacific
+
+2
+
+China1
+
+1995–97
+
+60
+
+2014–16
+
+60
+
+Note: Superstar firm is represented as a firm with the largest economic profit, eg, NOPLAT minus weighted cost of capital charges.
+1 China had no superstar firms per our data set in 1995–97.
+Source: Capital IQ; McKinsey Corporate Performance Analytics; McKinsey Global Institute analysis
+
+12
+
+McKinsey Global Institute
+
+Exhibit 7
+
+Europe’s R&D giants are concentrated in the automotive industry.
+R&D spend by global top 250 R&D spenders, 2017–18
+China
+
+Europe
+
+Industry
+
+% of total within industry
+
+Automobiles and parts
+
+2
+
+Electronic and electrical
+equipment
+
+4
+
+11
+
+Technology hardware
+and equipment
+
+All industries
+
+1
+
+26
+
+18
+
+27
+
+29
+
+8
+
+15
+
+8
+
+16
+
+United States
+
+105
+
+14
+
+6
+
+69
+
+77
+
+5
+
+7
+
+92
+
+58
+
+13
+
+35
+
+111
+
+47
+
+4
+
+28
+
+6
+
+45
+
+8
+
+15
+
+Rest of world
+
+Total R&D
+spend, € billion
+
+53
+
+Pharmaceuticals
+and biotechnology1
+
+Software and computer
+services
+
+Japan
+
+11
+
+40
+
+515
+
+China’s share among top 250 research spenders per official reporting is below 1 percent in pharmaceuticals and biotechnology.
+
+Source: IRI 2018 EU Industrial R&D investment scoreboard; McKinsey Global Institute analysis
+
+as many unicorns as the United States, and none of the large internet platform companies. 50
+Naturally, this impact can be felt in Europe: the largest US tech companies are consistently
+able to offer higher-than-average salaries in Europe, for example 1.5 times the market average
+in London in 2017. 51
+Looking at China, the concentration of influence may even be higher. In China, just two
+companies, Tencent and Alibaba, backed 43 percent of all Asian unicorns as of summer 2018.
+Meanwhile, Tencent, Alibaba, and Baidu were collectively responsible for 42 percent of all
+Chinese venture capital in 2016. 52 About 20 percent of Chinese startups were founded by
+alumni of the three firms. 53
+
+50
+51
+52
+53
+
+Investment report 2018/2019: Retooling Europe’s economy, European Investment Bank, 2018; and Notes from the AI
+frontier: Tackling Europe’s gap in digital and AI, McKinsey Global Institute, February 2019.
+The state of European tech 2017, Atomico, December 2017.
+China’s digital economy: A leading global force, McKinsey Global Institute, August 2017.
+Digital China: Powering the economy to global competitiveness, McKinsey Global Institute, December 2017.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+13
+
+Fragmentation seems to put Europe at a structural disadvantage. Large and more
+homogeneous markets in the United States and China ease fast scale-up and create instant
+demand from tech-enthusiastic consumers. Europe’s national markets lack in size by
+comparison, making it difficult for new players to offer the same scale despite the European
+Union’s efforts to create a Single Market. 54 And Europe’s governance structures, and in some
+cases their philosophy about industrial policy, make heavy public investment and intervention
+more challenging or slower than, for example, in China, where substantial, centralized
+government investment creates growth in strategic technologies and sectors. In the United
+States, a strong focus on innovation in public procurement fosters new technologies, for
+example through the Defense Advanced Research Projects Agency (DARPA).
+
+54
+
+14
+
+Innovate Europe: Competing for global innovation leadership, World Economic Forum in collaboration with McKinsey &
+Company, January 2019.
+
+McKinsey Global Institute
+
+2. Five ways in
+which Europe could
+scale its game
+Europe continues to have a wide range of innovative companies and countries with a strong
+startup and entrepreneurial culture. Moreover, the European Union is devoting considerable
+energy and resources to defining a new comparative advantage in AI, in part linked to ethical
+and industry uses. It has also invested in areas such as quantum computing. Catching up with
+technology leaders and closing the productivity gap can be a slow process, however.55
+While no silver bullet exists for Europe to address its structural scale disadvantages, we see
+five ways that play to Europe’s strengths, capitalize on key trends, and change the rules of the
+game rather than (or in addition to) playing eternal catch-up on the well-known ingredients of
+innovation (Exhibit 8). The five themes outlined below are by no means exhaustive; we intend
+them to add a specific perspective to the many good ongoing initiatives as well as a growing
+body of research on how innovation policies need to change in a more digital context (see
+Box 1, “The European Union has launched a broad array of innovation initiatives”). 56 A common
+feature of the five themes is that they can help Europe scale up, to meet the challenges of
+more pervasive innovation. Europe will also need to take a longer-term view of innovation,
+focusing on new areas including synthetic biology, genomics, and other advances, and
+examining the impact not just on GDP growth but also on welfare more broadly.57
+
+1. Europe can draw on its industrial strength to benefit from its scale and
+the diffusion of technologies across supply chains
+Trend: The next playing field of innovation will be more oriented to business-to-business
+(B2B) than business-to-consumer (B2C) enterprises, with many technological applications
+centered on diffusion across industries and supply chains. 58
+Europe’s strength: While Europe has fewer superstar firms, the continent can build on its
+industrial prowess. European manufacturers are among the largest global innovators. For
+example, nine out of 16 beacons of technology and innovation in manufacturing identified
+by the World Economic Forum and McKinsey are located in Europe, while five are in China
+and only one is in the United States. 59 Europe also has an edge in B2B and digital in other
+large sectors such as healthcare and the financial industries. Stakeholders in Europe also
+have a history of collaborating and navigating the complexities of coordination and standard
+setting, as for example the automotive industry does with issues related to safety and
+connected driving.
+Potential paths forward: Europe has room to scale industrial innovation policies and may
+orient itself on examples that are already working. First, Europe could build on its strong
+
+55
+56
+57
+58
+59
+
+Dan Andrews, Chiara Criscuolo, and Peter N. Gal, Frontier firms, technology diffusion and public policy: Micro evidence
+from OECD countries, OECD 2015.
+Digital innovation: Seizing policy opportunities, OECD, 2019, doi.org/10.1787/a298dc87-en.
+Tech for good: Smoothing disruption, improving well-being, McKinsey Global Institute, May 2019.
+Globalization in transition: The future of trade and value chains, McKinsey Global Institute, January 2019.
+Enno De Boer, Helena Leurent, and Adrian Widmer, “Lighthouse” manufacturers lead the way—can the rest of the world
+keep up?, McKinsey & Company, January 2019.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+15
+
+Exhibit 8
+
+How Europe could play to its strengths, and change the rules of the game, despite
+fragmentation.
+Ways
+
+Objective
+
+Examples
+
+Play to industrial
+strengths
+
+Innovate in
+ecosystems around
+Europe’s superstars
+
+ Foster cooperation across industry
+
+Rethink data
+and user access
+
+Level playing field,
+protect citizen data,
+and connect data
+pools
+
+ Open government (and private) data and APIs
+ Interfaces and rules for private data sharing
+
+Leverage Europe’s
+substantial public
+sector
+
+ Scale up digital government (eg, e-Estonia)
+ Digital ID (eg, eIDAS)
+ Public procurement rules and bundling
+
+Create public
+demand at scale
+
+boundaries (eg, automotive-telecom alliance)
+
+ Regulatory sandboxes (eg, UK FCA)
+ Industrial policy in critical fields like mobility
+ Market access and investment policies
+
+(eg, cross-industry platform Verimi)
+
+ Open technology standards (eg, GSM)
+
+(eg, requirement to use BIM in public works)
+
+ Publicly financed innovation scale-up fund
+Open innovation
+and high-skill
+immigration flows
+
+Connect ecosystems
+and attract
+international talent
+
+ Collaborative and open innovation
+
+(eg, Innovate UK, Cap Digital, Data 61)
+
+ High-skill immigration pathways (eg, EURES)
+ Startup compensation practices
+(eg, taxation on stock options)
+
+Leverage scale of
+global firms
+
+Derive as much value
+and benefits as
+possible from nonEuropean large firms
+
+ Shift value creation to Europe (eg, Google
+campuses in Warsaw and Madrid)
+
+Source: McKinsey Global Institute analysis
+
+industrial companies and track record of collaboration to foster cooperation across industry
+boundaries and even among competing companies in the same industrial sectors. Examples
+set by the European Automotive and Telecoms Alliance, which includes telecom operators,
+vendors, car and truck manufacturers, and suppliers, may be only the beginning, as
+competitors in the automobile industry combine their research efforts and service offerings to
+achieve more scale in customer and data access.60 Such efforts in other sectors could enable
+medium-size companies as well as small entrepreneurial firms and startups to pilot innovation
+at a large scale within existing industrial supply chains through platforms and to play a key
+role in generating radical innovation.61 Similarly, a number of initiatives have been created,
+particularly in the Industry 4.0 context; for example, the Plattform Industrie 4.0 network
+promotes digitization in manufacturing in Germany.62 It remains to be seen whether a strong
+push toward collaborative networks for key technologies, such as AI, can be a way for Europe
+
+60
+61
+62
+
+16
+
+Connected and automated driving EATA presents deployment roadmap, submits proposal for EU-wide project, press
+release, GSMA, February 2017.
+For potential effects on SMEs, see Reinhilde Veugelers, “The role of SMEs in innovation in the EU: A case for policy
+intervention?,” Review of Business and Economics, 2008, Volume LIII, Number 3.
+Digital innovation: Seizing policy opportunities, OECD, 2019, doi.org/10.1787/a298dc87-en.
+
+McKinsey Global Institute
+
+Box 1.
+
+The European Union has launched a broad array of innovation initiatives
+While most innovative support occurs at the level
+of member states, the European Union has actively
+supported innovation for many years and is currently
+accelerating its efforts, including with regard to
+critical trends such as the emergence of new frontier
+technologies, sustainability, and social inclusiveness.
+The EU has promoted greater access for consumers
+and businesses to online goods and services, in efforts
+aimed at raising the growth potential of the digital
+economy and building ecosystems in which digital
+networks and services can flourish. The DG CONNECT
+(Directorate‑General for Communications Networks,
+Content and Technology) has crossed several milestones
+on the way toward completion of the Digital Single
+Market. These include regulations to address unjustified
+geo-blocking, the end of roaming charges, and the
+establishment of a 5G infrastructure association.1 Other
+initiatives to spur innovation include, for example:
+—— Funding commitments, notably Horizon Europe, which
+set aside a total budget of €100 billion for digital
+between 2021 and 2027 under the next multiannual
+financial framework. This includes a number of
+initiatives such as support for small and medium-size
+enterprises, for example, via digital innovation hubs.
+It also includes technology programs such as the
+strategy for key enabling technologies; a commitment
+of €20 billion annually for AI; a European cloud
+initiative for sharing scientific data and improving open
+access; and a quantum technologies flagship initiative.
+—— Forming a High-Level Expert Group on AI,
+which convened cross-sector experts to create
+recommendations on policy development and
+on ethical, legal, and societal issues related to
+AI. The Expert Group published a list of seven
+key requirements that AI systems should meet
+to be considered trustworthy. Building on
+these requirements, the group put forward
+33 recommendations that can guide “Trustworthy AI”
+toward sustainability, growth, and competitiveness,
+as well as inclusion. An example of these
+
+1
+2
+3
+4
+
+recommendations is the creation of an EU “How to”
+guide on legal, business, and technical aspects of
+data sharing that can be used when considering and
+preparing data transfers between companies.2
+—— Creating the European High-Performance Computing
+Joint Undertaking (EuroHPC) to pool EU and
+participating countries’ resources to build a worldclass supercomputing and data infrastructure and
+a competitive innovation ecosystem in relevant
+technologies and applications. 3 The EuroHPC
+allocated €1 billion to help Europe achieve innovation
+and commercialization at scale for AI and other
+computing-intensive applications, contributing to
+efforts to overcome fragmentation in this domain. In
+June 2019, the EuroHPC announced that the eight
+supercomputing centers would be in Sofia (Bulgaria),
+Ostrava (Czech Republic), Kajaani (Finland), Bologna
+(Italy), Bissen (Luxembourg), Minho (Portugal), Maribor
+(Slovenia), and Barcelona (Spain).
+—— Sector-specific initiatives, like digital healthcare
+including smart hospitals (digital health infrastructure),
+health records, and patient empowerment (medical
+equipment and devices).
+—— Complementary ethical and social initiatives, and a
+commitment of €27 billion by 2020 by the European
+Social Fund toward reskilling (partially related
+to digital).
+—— Monitoring tools like the European innovation
+scoreboard and the Digital Economy and Society
+Index, and innovation policy research like the EU’s
+Science, Research, and Innovation Performance.
+These tools track innovation metrics, such as scientific
+co-publications and business R&D expenditure, both
+on a country-by-country basis, as well as from an
+EU-wide innovation trend perspective. 4
+
+Annual activity report 2017, European Commission, DG Communications, Networks, Content and Technology, https://ec.europa.eu/info/sites/info/files/
+file_import/cnect_aar_2017_final.pdf.
+Guidance on sharing private sector data in the European data economy, European Commission, staff working document, April 25, 2018, https://ec.europa.
+eu/digital-single-market/en/news/staff-working-document-guidance-sharing-private-sector-data-european-data-economy.
+The European high-performance computing joint undertaking EuroHPC, European Commission, https://ec.europa.eu/digital-single-market/en/eurohpcjoint-undertaking.
+Monitoring innovation, European Commission, https://ec.europa.eu/growth/industry/innovation/facts-figures_en.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+17
+
+to leverage its different geographical strengths. A similar idea has emerged recently in the
+Franco-German manifesto for a European Industrial Policy, issued by the two countries’
+ministries for economic affairs.63
+Second, Europe could create dedicated, coordinated testing areas—so-called sandboxes—
+for key technologies. Local geographies could pick technologies and create safe spaces
+in which businesses can test innovations on a temporary and geographically limited basis.
+Sandboxes could help innovative firms cope with regulatory obligations in real-life situations
+and enter a dialogue with regulators. This has been demonstrated, for example, in the
+United Kingdom, where the Financial Conduct Authority, the country’s financial regulator,
+established a safe environment for fintech startups to test products and services—including
+online platforms, biometrics, and distributed ledger technology (blockchain)—before
+widely launching them on the market. Subsequently, 90 percent of firms that participated
+progressed to a wider market launch.64
+Third, Europe could devise industrial policy specifically targeted at sustaining or establishing
+a lead in critical fields where it is strong, such as mobility.
+Last, and most controversially, the European Union could enable the formation of large
+European players in many sectors. Clearly, efforts to complete the Single Market will be
+welcome and will help in that regard, notably in sectors like telecommunications and banking
+that are still relatively fragmented geographically. Europe could also review market access,
+subsidies, and investment policies globally where foreign players may have an edge.65 Less
+clear are relaxations of antitrust policies or even active formation of European champions
+like Airbus, which may seem like an obvious response but may come with many undesired
+consequences for competition and competitiveness.
+
+2. Europe can rethink data and user access and standards to level the
+playing field, protect citizens’ data, and connect data pools
+Trend: As large internet platforms continue to push into more industries, based on platformbased business models and data, and to leverage their network scale to expand into new
+technologies such as AI, demands to raise standards for data protection and privacy are
+increasing. Recent regulatory steps by European agencies—lately by Germany’s federal
+cartel office against Facebook—illustrate this.66 Data access is as critical to ensure that
+new ecosystems can thrive. In fact, the value of a network is increasing at the square of its
+size; finding ways to achieve more access to data to boost size thus has a disproportionately
+large effect. Conversely, breaking network effects, as is sometimes suggested in relation
+to global networks, can be very harmful to ecosystems as well as to the companies that
+orchestrate them.
+Europe’s strength: Europe is already considered a leading actor on data governance and
+privacy protection, with the 2018 General Data Protection Regulation (GDPR) and, most
+recently, legislation on the free flow of data. The effect of these regulations is starting to
+show. The financial impact of GDPR on Fortune 500 companies has been estimated at
+about $9 billion. 67 US tech giants, mindful of the fragmentation of rules across US states, are
+beginning to demand similar regulation in their home country.68 Europe also has a large base
+of digital citizens.
+
+63
+64
+65
+66
+67
+68
+
+18
+
+See for example, A Franco-German manifesto for a European industrial policy fit for the 21st century, Bundesministerium
+für Wirtschaft und Energie, February 19, 2019.
+Sue McLean, FCA’s regulatory sandbox—Lessons learnt, Mondaq, November 7, 2017.
+Georgios Petropoulos and Guntram Wolff, “Red herring & black swan: European champions?,” Berlin Policy Journal,
+February 2019.
+Emily Dreyfuss, “German regulators just outlawed Facebook’s whole business model,” Wired, February 7, 2019.
+Chris Albers Denhart, ”New European Union data law GDPR impacts are felt by largest companies: Google, Facebook,”
+Forbes, May 2018.
+Alanna Foster, “Tech giants urge US to adopt GDPR laws,” IBC.org, February 2019.
+
+McKinsey Global Institute
+
+Potential paths forward: Europe could aim to enable secure access for innovators to data
+pools they do not own and create scale around common standards. Among the options could
+be to open access to government data in certain strategic sectors, for example transportation,
+where relevant to smart cities and transport, or in healthcare, where tangible benefits such
+as increased drug effectiveness could result.69 Implemented in a smart way, such initiatives
+could not only give companies and research institutions access to anonymized data, but also
+enable citizens to increase control over what data are captured and how they can or cannot be
+used, when, and by whom. A concrete ambition could be to make government data accessible
+via standardized interfaces (APIs) to public research institutions within the next three years,
+before extending the initiative to traditional businesses. The Berlin-based privately funded
+cross-industry platform Verimi could serve as an example for a data alliance.70 A digital
+identity provides easy access for users to visit websites and use other services without the
+need to enter personal data every time. Instead, they can decide which data they share with
+whom and manage it transparently. Government-driven examples exist as well, for example in
+Belgium, Estonia, Finland, and Spain.71
+More radical options could include standardized interfaces and potential regulations
+to access private firm–held data, changing the way ownership and location of data are
+treated. This could help smaller companies use data for the creation of innovative services
+and thus benefit citizens. At the same time, it could also have severe consequences,
+including reduced transparency about the kind of data that are used and combined. Such
+a move could potentially invalidate existing business models; it requires further testing
+and experimentation.
+Finally, Europe should continue to promote open technology standards building on a legacy
+of successful standard setting, for example in GSM. Industry 4.0 is an example of a German
+government initiative to create a coherent policy framework to maintain Germany’s industrial
+competitiveness.72 Continuing this type of involvement in next generation technology will help
+European innovation and competitiveness.
+
+3. Europe can use its substantial public-sector procurement scale to
+propel innovation of digital goods and services
+Trend: We are moving toward a world characterized by shifting geopolitics, including the
+rise of China, India, and other emerging economies and by disruption through the rapid
+spread of digital technologies.73 The growing challenges to globalization and changes
+to social contracts, at least in some countries, seem to signal a need for more economic
+interventionism. China, for example, has seen massive investment and targeted championing
+of technologies by the government, for example in AI.74
+Europe’s strength: In this context, Europe’s large public sector, often seen as a weakness,
+could be turned into a strength. Europe’s procurement spending on public services and
+products amounts to 14 percent of its GDP annually, equal to about €2 trillion. If leveraged
+well, smart intervention, coupled with large budgets turned toward innovation, could have
+significant impact.
+
+69
+70
+71
+
+72
+73
+74
+
+Open data: Unlocking innovation and performance with liquid information, McKinsey Global Institute, October 2013.
+verimi.de/en.
+Project DECODE is funded by the European Commission and runs pilots in Amsterdam and Barcelona to determine how
+citizens could best be provided with a digital interface to control their data, decodeproject.eu/what-decode. MyData.org
+is a civil society initiative endorsed by the Finnish and Estonian governments that gives citizens more control over their
+data. Who are we, MyData, 2018.
+http://www.europarl.europa.eu/RegData/etudes/STUD/2016/570007/IPOL_STU(2016)570007_EN.pdf.
+Germany: Industrie 4.0, European Commission, Digital Transformation Monitor, January 2017; Navigating a world of
+disruption, McKinsey Global Institute, January 2019.
+Kai-Fu Lee’s perspectives on two global leaders in artificial intelligence: China and the United States, McKinsey Global
+Institute, June 2018.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+19
+
+Potential paths forward: To leverage the public sector more fully, Europe could first rapidly
+scale up digital government, as Estonia has done with e-Estonia and its advanced digital
+government backbone, and drive European convergence on standards and open interfaces.
+This would require a mind-set shift away from national steering and toward a coordinated
+European and open innovation–focused approach. In some ways, transformation of European
+governments has already begun: five of the ten leading countries in e-government are from
+Europe, according to the United Nations.75 Digital ID systems, specifically, enable individuals
+to unlock value and benefit as they interact with firms, governments, and other individuals
+in six roles: as consumers, workers, microenterprises, taxpayers and beneficiaries, civically
+engaged individuals, and owners. Individuals benefit most as consumers from wider access to
+services, and as taxpayers and beneficiaries from time saved interacting with government.76
+Examples already underway that could provide some of the technical basis needed for
+digital innovation in cross-border services include the European electronic Identification,
+Authentication and Trust Services (eIDAS) initiative, which aims to enable secure transactions
+between citizens, government agencies, and businesses. In the Netherlands, it has already
+triggered a large-scale cross-border digital ID project, connecting 200 public services in
+about 100 municipalities that can be accessed with nationally issued e-IDs from 32 countries.
+As a result, private businesses are beginning to offer digital IDs to simplify log-in and
+transactions for customers.
+Second, European public procurement spending could create significant scale of innovation
+demand if coupled with innovation components—encouraged by incentives or even
+mandatory—for example in sectors such as in healthcare, education, and public works. In
+some instances, this is already happening: many governments are starting to mandate use of
+Building Information Modeling for public construction projects.
+Third, enhancing public investment in research, innovation, and other intangible assets
+could help bridge Europe’s current investment gap compared to other economies. This may
+require rethinking the funding of breakthrough innovation. In addition to paving the way
+for institutional investors, such as pension funds, the option of creating a publicly financed
+European innovation scale-up fund to provide financing at scale for key competitive sectors
+could be explored, with the aim of eliminating the 2018 overall research gap of about
+€75 billion with the United States.77 In addition, Europe could raise its ambition on public
+funding of university-based and basic research to match US Ivy League schools.
+
+4. Europe can try to compensate for fragmentation with openness and
+connectedness, including by altering high-skill immigration flows and
+connecting local ecosystems
+Trend: In a digital world, collaboration as well as global flows of data, knowledge, and people
+are becoming increasingly important and creating spillover effects. From 2005 to 2016, the
+volume of data flows, measured in terabits per second, grew by a factor of 45, reaching an
+estimated 400 terabits per second. In same period, the traditional value flows of physical
+goods and services barely managed to grow at the pace of worldwide nominal GDP.78
+Focusing on people flows, migration has become the primary driver of worldwide population
+and labor-force growth in many developed regions, while skills are short.79 In Europe,
+demographic change and a lack of high-skill labor have created a situation in which
+businesses struggle to find people with the skills they need. 80 Executives cite lack of skills
+
+75
+76
+77
+78
+79
+80
+
+20
+
+United Nations E-Government Survey 2018.
+Digital identification: A key to inclusive growth, McKinsey Global Institute, January 2019.
+Innovate Europe: Competing for global innovation leadership, World Economic Forum in collaboration with McKinsey &
+Company, January 2019.
+Digital globalization: The new era of global flows, McKinsey Global Institute, 2016.
+People on the move: Global migration’s impact and opportunity, McKinsey Global Institute, December 2016.
+We define high-skill labor as professionals with a university or university-equivalent education.
+
+McKinsey Global Institute
+
+as the number-one obstacle to investing more in R&D and digitization. 81 In Germany, about
+50 percent of medium-size and large businesses say they have difficulties filling jobs, which is
+ten percentage points above the global average. In Eastern European countries, this situation
+can be even more acute; in Bulgaria, Greece, and Hungary, about 60 percent of companies
+struggle to find adequate employees. 82 High-skill labor may be a particular challenge for
+Europe. Just over one in four (25.4 percent) immigrants coming to the European Union has
+a high-level education, compared to 35.6 percent of the immigrants to other Organisation
+for Economic Co-operation and Development (OECD) countries. 83 Europe continues to lose
+international students after graduation. 84 In tech, more than 50 percent of immigrants to
+Europe came from either the United States or India in 2018, and 28 percent of founders or
+employees of European tech startups worked outside of their home country. 85 However, this
+compares to Silicon Valley’s share of foreign-born STEM workers, which was 58 percent
+in 2015, the highest among the innovation regions. 86 At the country level, we found that
+90 percent of the economic boost generated by migrants in 2015 occurred within just
+25 destinations, 12 of them in Western Europe. 87 Migrants contribute disproportionately to
+new business formation, innovation, and job creation. 88
+Europe’s strength: Europe has a history of collaboration across borders, including in EU
+framework research. Europe has focused on connecting clusters of successful industries,
+including digital, to achieve joint projects and investments. The ESCP has created networks to
+help clusters identify and implement collaborative innovation opportunities.
+In people flows, Europe is showing clear signs of improvement in its competitive position
+for talent. Almost half of the workforce in tech hubs like Berlin and London has come from
+abroad, and European startup founders reporting on employee candidates’ willingness
+to relocate to a new country indicate that Europe is gaining in attractiveness. 89 Location
+decisions are often driven by factors such as wages and public spending, but also by
+visa requirements, overall quality of life, and political factors, where Europe holds a
+competitive edge.90
+Potential paths forward: Europe could try to further strengthen collaborative and open
+innovation. Approaches include networks like Innovate UK, cluster formation like Cap Digital
+in France, and collaborative research and innovation centers like the EU Science Hub in
+Australia.91 To further connect different clusters and leverage the strengths of networking,
+the European Strategic Cluster Partnerships (ESCP) recommends leveraging a “triple helix
+model” of innovation.92 This model asserts that innovation can be amplified if intermediaries
+connect and organize universities, industries, and governments to achieve a common goal.93
+Facilitating the connections among these three stakeholders can open innovation within
+Europe. An example is TasLab in Trento, Italy, where the local and regional government
+developed a cooperation cluster strategy with the goal of creating advanced innovation
+infrastructure. They also created four large-scale open data projects, opened e-government
+portals, and invested in infrastructure for businesses and citizens (primarily information and
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+
+93
+
+Investment report 2018/2019: Retooling Europe’s economy, European Investment Bank, 2018.
+Talent shortage survey, Manpower Group, 2016/2017.
+Briefing: EU legislation in progress: Revision of the Blue Card directive, European Parliament, 2017.
+Martina Burmann et al., Highly skilled labour migration in Europe, ifo DICE Report, Volume 16, Number 1, Spring 2018.
+The state of European tech 2018, Atomico, December 2018.
+The analysis is based on data from the US Census Bureau; 2017 report: A dashboard and policy scorecard for a shared
+agenda of prosperity and opportunity, Silicon Valley Competitiveness and Innovation Project, February 2017.
+People on the move: Global migration’s impact and opportunity, McKinsey Global Institute, December 2016.
+Ibid.
+Willingness to move has increased generally, indicated by the fact that more candidates are also willing to leave their
+country. The state of European tech 2018, Atomico, December 2018.
+Hector Cebolla-Boado and Maria Miyar-Busto, What attracts highly skilled migration to Europe?, Temper Working Paper
+Series, working paper number 9, 2017.
+Digital innovation: Seizing policy opportunities, OECD, 2019, doi.org/10.1787/a298dc87-en.
+Smart guide for European strategic cluster partnerships, European Observatory for Clusters and Industrial Change, 2019,
+https://www.clustercollaboration.eu/sites/default/files/news_attachment/smart_guide_for_european_strategic_
+cluster_partnerships.pdf.
+Henry Etzkowitz and Loet Leydesdorff, The triple helix—university-industry-government relations: A laboratory for
+knowledge based economic development, EASST Review, Volume 14, Number 1, January 1995, https://papers.ssrn.com/
+abstract=2480085.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+21
+
+communications technology). The TasLab cluster has attracted more than 800 world-class
+researchers and leading businesses such as IBM, Nokia, and Siemens.94
+In talent, specifically, Europe could try to leverage its strengths, as well as the geopolitical
+climate currently geared toward preventing immigration to change flows of high-skill migrants
+in its favor. First, this could include encouraging the return of Europeans who work abroad.
+While there is currently no EU-wide program to encourage expats to return to Europe after
+having worked in another country for some time, such an initiative could be valuable.95
+Second, international talent could be attracted by creating better pathways for high-skill
+professionals. For example, opportunities in Europe could be better promoted by leveraging
+social media. EURES, the European portal for job mobility, already runs a website listing
+job vacancies and is active on social media platforms.96 It could be expanded to target nonEuropean citizens. Europe could further ease the recognition of skills and standardize visa
+procedures across European countries.
+Third, the EU could address compensation practices for startups by changing taxation on
+stock options. Currently, startup employees in the United States have twice as much upside
+exposure as their European peers.97 Europe could enable workers to participate more fully
+in the success of their companies by simplifying the rules and taxation framework for stock
+option remuneration through a common framework, thereby improving the risk-reward profile
+for startup employees. Startups in countries such as Germany and Spain report that current
+taxation schemes make it difficult to set up stock option schemes.
+
+5. Europe can leverage the scale of global firms to its benefit
+Regardless of whether Europe succeeds in changing the terms in its favor in a scale-matters
+world, it could ensure that it derives as much value and benefits from large non-European
+firms as possible.
+Trend: Large Chinese firms are increasingly able to rival their US counterparts, and the
+competitive economic and geopolitical climate seems to be toughening. Global innovation
+value chains have started regionalizing, given their need to closely integrate many suppliers
+for just-in-time sequencing, as well as trade conflicts, threats of tariffs, and rising uncertainty.
+This trend could accelerate in other value chains as automation reduces the importance of
+labor cost arbitrage and increases the importance of speed to market in company decisions
+about where to produce goods.98 This could mean that non-European firms will have to
+increase their presence in Europe.
+Europe’s strength: Europe can be considered a traditionally open economy, exhibiting a trade
+surplus with the rest of the world and being an important target for foreign direct investment.
+For example, China’s Tencent acquired a 5 percent stake in Ubisoft, Europe’s largest video
+game company, for $450 million in March 2018. In turn, Ubisoft obtains access to the Chinese
+market through a strategic partnership with Tencent, which could help it scale.
+Potential paths forward: One of Europe’s priorities could be to ensure not only that its citizens
+continue to enjoy the benefits of services delivered by non-European companies, but that
+these companies also create more Europe-based employment, innovation, customer value,
+and tax income. Debates about shifting the tax regime more toward consumption and usage
+are already contentious, but even more value could be created in the long run from ensuring
+
+94
+95
+96
+97
+98
+
+22
+
+Trento: Building on past achievements, Digital Transformation Monitor, European Commission, January 2017, https://
+ec.europa.eu/growth/tools-databases/dem/monitor/sites/default/files/DTM_Trento%20v1.pdf.
+Jonkers Koen, A comparative study of return migration policies targeting the highly skilled in four major sending
+countries, 2008.
+EURES: The European job mobility portal, European Commission, ec.europa.eu/eures/public/homepage.
+Rewarding talent: A guide to stock options for European entrepreneurs, Index Ventures, December 2018.
+Globalization in transition: The future of trade and value chains, McKinsey Global Institute, January 2019.
+
+McKinsey Global Institute
+
+that actual innovative activity moves to Europe. Europe could create a level playing field for US
+and Chinese firms to compete effectively on European grounds and could further leverage the
+positive impact on innovation ecosystems through alumni of tech companies.
+To this end, Europe could engage in identifying key challenges that keep companies from
+shifting more value creation to Europe and respond with corresponding measures or incentive
+programs. Benefits would need to be carefully weighed against risks, beginning with potential
+loss of intellectual property. Another possible consequence is stronger foreign influence in
+democratic societies, for example through the power to command attention, communicate
+news, or influence people’s votes. Geopolitical considerations would be in play, because many
+modern tech solutions can serve a dual purpose of both civilian goals and military applications,
+meaning location of service creation, provision, and, ultimately, ownership may matter. 99
+
+Europe possesses many ingredients for successful innovation and adoption of innovation. In
+a superstar world in which it lacks scale, it needs to find its own innovation model and play to
+its strengths rather than trying to catch up with the strengths of others. Industry ecosystems,
+public-sector digitization and demand, data access and governance, talent migration, and
+attraction of foreign activity could all be parts of a solution. We encourage critical feedback
+and reactions as well as further research on how Europe can restore its luster as an
+entrepreneurial and innovative leader.
+
+99
+
+Martin Moore, Tech giants and civic power, King’s College London, April 2016; see also Henny Sender, “US defence:
+Losing its edge in technology?,” Financial Times, September 4, 2016.
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+23
+
+Acknowledgments
+This discussion paper is part of the McKinsey Global Institute’s ongoing research on issues
+affecting business, the economy, and society.
+The project was directed by Jacques Bughin, director of the McKinsey Global Institute and a
+McKinsey senior partner based in Brussels; Eckart Windhagen, a senior partner in Frankfurt;
+Sven Smit, MGI director and a senior partner in Amsterdam; Jan Mischke, a Zurich-based MGI
+partner; Pal Erik Sjatil, leader of McKinsey in Europe; and Bernhard Gürich, an engagement
+manager in Hamburg.
+This research draws in part on work we conducted in collaboration with the World Economic
+Forum, Innovate Europe: Competing for global innovation leadership, which was published
+in January 2019. We are grateful to the WEF team and the Digital Leaders of Europe who
+contributed to that related report, notably: Annika Brack, Head of Community Development,
+Regional Affairs – Europe; Martina Larkin, Head of Regional Strategies – Europe and
+Eurasia, Member of the Executive Committee; Derek O’Halloran, Head of Future of Digital
+Economy and Society, Member of the Executive Committee; and Renée van Heusden, Head
+of Community Development, Regional and Geopolitical Affairs – Europe.
+Hans-Helmut Kotz, Resident Fellow, Center for European Studies, and Visiting Professor of
+Economics at Harvard University, provided invaluable guidance and support for our research
+for this paper.
+We would also like to thank McKinsey colleagues Sree Ramaswamy, Sebastian Stern, and
+Tilman Tacke for their contributions. This discussion paper was edited and produced by
+Peter Gumbel, MGI editorial director, together with production manager Julie Philpot and
+senior graphic designers Laura Brown, Marisa Carder, and Patrick White. Nienke Beuwer
+of MGI’s external communications team helped disseminate and publicize the report.
+Lauren Meling, MGI digital editor, ensured digital and social media diffusion.
+This discussion paper contributes to MGI’s mission to help business and policy leaders
+understand the forces transforming the global economy, identify strategic locations, and
+prepare for the next wave of growth. As with all MGI research, this research is independent
+and has not been commissioned or sponsored in any way by business, government, or other
+institution. We welcome your comments at MGI@mckinsey.com.
+
+24
+
+McKinsey Global Institute
+
+Related MGI and
+McKinsey research
+The authors collaborated with the World Economic Forum on and drew from the insight report Innovate Europe: Competing
+for global innovation leadership, which was published at the World Economic Forum’s Annual Meeting in January 2019 in
+Davos.
+McKinsey Global Institute research reports are available at www.mckinsey.com/mgi. For this discussion paper, we have
+drawn on the following reports:
+Artificial intelligence: The next digital frontier?, June 2017
+A future that works: Automation, employment, and productivity, January 2017
+A window of opportunity for Europe, June 2015
+China’s digital economy: A leading global force, August 2017
+Digital America: A tale of the haves and have-mores, December 2015
+Digital China: Powering the economy to global competitiveness, December 2017
+Digital Europe: Pushing the frontier, capturing the benefits, June 2016
+Digital globalization: The new era of global flows, March 2016
+Digital identification: A key to inclusive growth, January 2019
+Globalization in transition: The future of trade and value chains, January 2019
+Navigating a world of disruption, January 2019
+Notes from the AI frontier: Applying AI for social good, December 2018
+Notes from the AI frontier: Modeling the impact of AI on the world economy, September 2018
+Notes from the AI frontier: Tackling Europe’s gap in digital and AI, February 2019
+Open data: Unlocking innovation and performance with liquid information, October 2013
+People on the move: Global migration’s impact and opportunity, December 2016
+Retraining and reskilling workers in the age of automation, January 2018
+Skill shift: Automation and the future of the workforce, May 2018
+Solving the productivity puzzle: The role of demand and the promise of digitization, February 2018
+Superstars: The dynamics of firms, sectors, and cities leading the global economy, October 2018
+Testing the resilience of Europe’s inclusive growth model, December 2018
+
+Innovation in Europe: Changing the game to regain a competitive edge
+
+25
+
+McKinsey Global Institute
+October 2019
+Copyright © McKinsey & Company
+Designed by the McKinsey Global Institute
+www.mckinsey.com
+@McKinsey
+@McKinsey
+
+

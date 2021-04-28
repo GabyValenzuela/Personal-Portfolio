@@ -1,0 +1,1092 @@
+DI G I TAL T RANSFORMATIO N STRATE GY IN ACTIO N:
+DE V E LO PI NG A ROADM AP TOW ARDS THE FO URTH
+I N DUST RI AL REVOLUTIO N IN AF RICA
+Report on the Side Event “Making the Fourth Industrial Revolution work for Africa”
+
+D I G I TAL T RAN S FO RM AT ION ST RAT EG Y IN ACT ION:
+D E V E LO P I N G A R OAD M A P TOWA RD S T HE FOU RT H
+I N DUST R I AL R EVOLU T ION IN A FRIC A
+Report on the Side Event “Making the Fourth
+Industrial Revolution work for Africa”
+
+ACKNOWLEDGEMENTS
+This document is published by the United Nations Industrial Development
+Organization (UNIDO), under the overall guidance of Mr. Alejandro Rivera
+Rojas, Executive Officer of the Directorate of Digitalization, Technology and
+Agri-Business. The final document benefited from the valuable inputs, review
+and constructive comments received by Ms. Rebeca Gallardo Gomez, Mr.
+Darren Gleeson, and Ms. Dudzai Marufu from UNIDO, and Mr. Mactar Seck
+from UNECA.
+The authors are grateful to the United Nations Economic Commission for
+Africa and the African Union Commission for their valuable support to the
+side event “Making the Fourth Industrial Revolution work for Africa”. Special
+thanks to the moderator of the session, Dr. Bernardo Calzadilla Sarmiento,
+and to the distinguished panelists, H.E. Mr. Pedro Lopes, Mr. Oliver
+Chinganya, Ms. Rebecca Enonchong, Mr. Ravi Gupta, Professor Mbang Sama
+and Ms. Nekesa Were, who provided many interesting and useful insights into
+the role of the Fourth Industrial Revolution in Africa.
+
+DISCLAIMER
+Copyright © 2020 United Nations Industrial Development
+Organization
+This document has been produced without formal United Nations editing.
+The designations and the presentation of the material in this document do
+not imply the expression of any opinion whatsoever on the part of the
+Secretariat of the United Nations Industrial Development Organization
+(UNIDO). Mention of company names or commercial products does not
+constitute an endorsement by UNIDO. Although great care has been taken to
+maintain the accuracy of the information presented, neither UNIDO nor its
+member states assume any responsibility for consequences which may arise
+from the use of the material. This document may be freely quoted or
+reprinted, but acknowledgement is requested.
+
+Image and Illustration Copyrights ©
+Design: Linart Design Lab (Carolina Gutiérrez Zepeda)
+UNIDO: Photos and Logos
+
+04
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+S USTAI N AB L E DE V E LO P M ENT AT T HE HEA RT
+OF A FR I C A' S DI G I TAL T RA NSFOR M AT ION
+
+5G CONNECTIVITY
+
+ARTIFICIAL
+INTELLIGENCE
+
+THE FOURTH
+INDUSTRIAL REVOLUTION
+
+ADDITIVE
+MANUFACTURING
+
+ADVANCED ROBOTICS
+
+Recent years have seen a
+growing convergence between the
+manufacturing and digital sectors,
+heralding a major shift in industrial
+production on a global basis, led by
+advanced digital production
+technologies.
+
+INDUSTRIAL
+INTERNET OF THINGS
+
+BIG DATA
+
+These avant-garde technologies boast considerably more powerful data processing
+abilities than ever before, and with it, hold significant potential to increase efficiency
+and value added in industrial sectors, safeguard the environment and to contribute to
+human wellbeing.
+In terms of the 2030 Agenda for Sustainable Development, advanced innovations present
+us with considerably enlarged scope for progress in Africa.
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+05
+
+MA KIN G T H E FO U RT H I N DUST RIA L REVOLU T ION
+COU N T FO R S USTAI N AB L E DEV ELOP M ENT IN A FRIC A
+
+Digital platforms, mobile
+technologies and blockchain
+technologies can be a drive
+to market revolution in
+Africa, enabling sustainable
+consumption and production
+patterns (SDG 12)
+
+Promoting energy efficiency
+and enabling a circular
+economy approach to
+advance sustainable
+industrial development
+(SDG13)
+
+Improving productivity of
+small-scale food producers
+through precision farming
+led by drones and big data
+(SDG 2)
+
+Optimizing public transport
+systems and building safe,
+resilient and sustainable
+communities using big data
+and AI (SDG 11)
+Boosting innovation,
+productivity and
+competitiveness among micro-,
+small- and medium-sized
+enterprises (MSMEs) through
+the adoption of IIoT and other
+digital technologies (SDG 9)
+
+06
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+Creating inclusive, sustainable,
+and productive employment
+and decent work for all and
+particularly for the youth,
+through the digital
+transformation of industry
+(SDG 8)
+
+Enhancing gender equality
+and empowerment of
+women and girls through
+involvement in digital
+capacity building activities
+and STEM operations
+(SDG 5)
+
+Promoting small-scale
+IoT-powered water treatment
+with remote monitoring for
+rural communities in Africa
+where access to clean water
+is not guaranteed (SDG 6)
+
+However, there are also some potential
+downsides to this transformation which
+must be addressed.
+The digital divide between High Income and
+Developing Countries may well widen rather
+than close without robust digital policies
+and international cooperation mechanisms.
+The UNIDO Industrial Development Report
+2020, which examined the implications of
+the Fourth Industrial Revolution for all
+countries, found a deeply lopsided digital
+manufacturing environment.
+
+Economies (mostly located in the Global
+North) account for over 90% of global
+patents and 70% of exports associated with
+advanced digital production technologies.
+
+Economies (including those in most
+African countries) currently have little or
+no involvement in advanced innovation,
+be it as consumers or producers.
+
+Proportion of total manufacturing value added from medium and high-tech industry (MHT)
+SDG Indicator 9.B.1: Higher values indicate a country’s industry sector is focused on high-tech manufacturing.
+
+NO
+DATA
+
+Source: UN Statistics Division
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+07
+
+Moreover, there are considerable barriers to developing countries resolving to “leapfrog”
+into the ranks of these digital frontrunners, most notably in terms of:
+- Basic capabilities and digital skills for absorption of advanced technologies; 70 per cent
+of firms in developing countries are still using analog technologies, according to the
+UNIDO IDR 2020.
+- Insufficient digital infrastructure; Examining Internet usage on an individual basis,
+Africa has just 28.2 people per 100 inhabitants, compared with 82.5 in Europe, according to
+the ITU.
+
+Share of the population using the Internet, 2019
+
+Source: World Bank
+
+Individuals using the Internet per 100 inhabitants, 2019
+(International Telecommunication Union)
+
+08
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+- Heterogeneous progress and regional integrations and coordination issues, resulting
+in internal “technology islands” within African countries.
+- Access and affordability issues. Africans also continue to face the highest Internet use
+costs in the world, with the average across the African continent is 7.12 per cent of the
+average monthly income per gigabyte, and in some cases costing more than a fifth of the
+average earning, according to the 2019 Affordability Report.
+- Diversion of investment to address the crisis created by the COVID-19 pandemic,
+jeopardizing the capacity of many African countries to keep pace with digital
+transformation. Sub-Saharan Africa exhibits the lowest capacity of all regions to enable
+working from home during the Covid-19 pandemic, according to the International
+Monetary Fund.
+
+The Ability to Switch to Telework to continue Business during the
+Pandemic varied by Regions (International Monetary Fund)
+
+World
+
+SSA
+
+Asia and
+Pacific
+
+Europe
+
+MECA
+
+Western
+Hem
+
+Digital transformation can be a driving force for innovative, gender-responsive, inclusive, and
+sustainable growth. Innovations and digitalization are stimulating job creation and contributing to
+addressing poverty, reducing inequality, facilitating the delivery of goods and services, and contributing
+to sustainable development and the achievement of many of the key transformational outcomes of
+Agenda 2063.
+The Fourth Industrial Revolution (4IR) has the potential to transform Africa’s economy, increase its
+productivity and enhance its global and regional trade, particularly in the context of the African
+Continental Free Trade Agreement (AfCFTA), which entered into force in May 2019. Some of the
+continent’s greatest strengths and opportunities include the following:
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+09
+
+- By 2030, Africa will be home to more than a quarter of the world’s population under 25.
+- Africa will be a major consumption market over the next three decades.
+- Many African countries have already developed policy initiatives which are either exploring the
+feasibility or preparing the ground for the adoption of 4IR technologies.
+- Onboarding the 200 million currently without internet access could result in significant gains in GDP,
+economic productivity and gender equality.
+- The continent’s emerging digital ecosystem can act as a multiplier of growth.
+
+Ecosystem Accelerators in Africa - Tech Hubs Landscape 2019
+Startup and innovation culture is deepening on the continent.
+
+No Data
+
+Tunisia | 29
+
+1-4 Hubs
+
+Morocco | 31
+Egypt | 56
+
+5-9 Hubs
+
+Mali | 14
+Senegal | 15
+Nigeria | 85
+Côte d’Ivoire | 22
+Ghana | 25
+
+Cameroon | 18
+
+Togo | 13
+
+Uganda | 19
+
+Kenya | 48
+10-19 Hubs
+
+Tanzania | 17
+
++50%
+Zimbabwe | 12
+
+20-49 Hubs
+
+South Africa | 18
+
+TECH HUBS
+ACROSS AFRICA
+
+10
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+50+ Hubs
+
+- The continent is increasingly mobile phone-enabled and sustainability of growth of
+Internet.
+
+Mobile Cellular Subscriptions
+Mobile phone subscriptions, measured as the number per 100 people.
+SDG Indicator 9.C.1: proportion of population covered by a mobile network.
+
+50
+0-25
+
+75
+
+100
+
+125
+150
+
+200
+
+Source: International
+Telecommunication Union
+
+In 2019, 50 million sub-Saharan
+Africans created a mobile-money
+account via a mobile phone.
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+11
+
+The African Union has been developing its policy research frameworks at the regional level, most notably its
+“Digital Transformation Strategy for Africa (2020-2030)” which aims to “harness digital technologies and
+innovation to transform African societies and economies to promote Africa's integration, generate inclusive
+economic growth, stimulate job creation, break the digital divide, and eradicate poverty for the continent’s
+socio-economic development and ensure Africa’s ownership of modern tools of digital management.”
+
+A D I G I T A L LY T R A N S F O R M E D C O N T I N E N T
+FOR PROSPERITY AND INCLUSIVITY
+
+CYBER SECURITY,
+PRIVACY AND
+PERSONAL DATA
+PROTECTION
+
+DIGITAL
+ID
+
+DIGITAL
+CONTENT AND
+APPLICATIONS
+
+EMERGING
+TECHNOLOGIES
+
+RESEARCH AND
+DEVELOPMENT
+
+CROSS-CUTTING THEMES
+
+DIGITAL
+INDUSTRY
+
+DIGITAL
+GOVERNANCE
+DIGITAL
+TRADE AND
+FINANCIAL
+SERVICES
+
+DIGITAL
+HEALTH
+
+DIGITAL
+EDUCATION
+
+DIGITAL
+AGRICULTURE
+
+CRITICAL SECTORS TO DRIVE DIGITAL TRANSFORMATION
+
+ENABLING
+ENVIRONMENT
+POLICIY AND
+RGULATION
+
+DIGITAL
+INFRASTRUCTURE
+
+DIGITAL SKILLS
+AND HUMAN
+CAPACITY
+
+FOUNDATION PILLARS
+
+12
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+DIGITAL
+INNOVATION AND
+ENTREPRENEURSHIP
+
+UNIDO is the United Nations specialized agency with a mandate to promote inclusive and
+sustainable industrial development worldwide. Given the unprecedented pace of the Fourth
+Industrial Revolution and its associated challenges for developing countries in particular, the
+Organization has been strategically deploying its policy expertise, technical cooperation and
+programmatic resources, convening networks and partnerships to assist its Member States in
+their transitions to the future of manufacturing, most notably through the establishment of the
+Directorate of Digitalization, Technology and Agri-Business and its strategic framework “Making
+the Fourth Industrial Revolution Work for All”.
+
+The strategic approach “Making the Fourth Industrial Revolution Work for
+All” focuses on innovation, digital skills, digital infrastructure and
+cooperation as the key elements to enable all to reap the opportunities
+and address the challenges of the Fourth Industrial Revolution. The
+strategic document centers upon three key outcomes: harnessing the 4IR
+for economic development; improving livelihoods through the application
+of new technologies; and advancing bio-based industries to ensure
+sustainability. It is through these levers that UNIDO can support the
+African continent to achieve an inclusive and sustainable digital future.
+
+D I GI TA L
+I N FRA ST R U CT U R E
+
+IN N OVAT I O N
+
+D I G I TAL
+S K I L LS
+
+CO O P E RATI O N
+
+In view of the unique potential gains and challenges of digitalization in Africa, UNIDO, the United
+Nations Economic Commission for Africa (UNECA) and the African Union convened a virtual panel
+discussion entitled “Making the Fourth Industrial Revolution Work for Africa” in the context of
+Africa Industrialisation Week 2020. The panel featured a variety of stakeholders from African
+governments, African private sector representatives and academics, and it succeeded in
+formulating several concrete recommendations, which can be taken forward to inform the African
+Union Summit on Industrialization and Economic Diversification 2021.
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+13
+
+P LE N A RY S E SS I O N
+The participants of the discussion panel “Making
+the Fourth Industrial Revolution Work for Africa”
+highlighted several barriers to harnessing digital
+industry on the African continent and also several
+concrete recommendations for stimulating a
+breakthrough for the Fourth Industrial Revolution
+regionally. These outputs correspond to four areasinnovation, digital infrastructure, digital skills and
+cooperation- and include inter alia:
+
+Innovation
+
+“Regionally, we must act to ensure that Africa is
+not left behind. Leading African digital innovations
+and companies show that the continent has
+talented digital entrepreneurs, but we must put in
+place the enabling environment for them to
+succeed on a wider scale. Central to these efforts
+are the creation of digital policy frameworks,
+regional cooperation and multi-stakeholder
+partnerships, dedicated funding streams and the
+enhancement of digital infrastructure.”
+
+- Digitalization has immense potential for helping
+us to achieve the 2030 Agenda for Sustainable
+Development, with artificial intelligence alone
+DR. BERNARDO CALZADILLA SARMIENTO
+capable of addressing 134 out of 169 associated
+Managing Director of Digitalization,
+Technology and Agribusiness, UNIDO.
+targets.
+- African governments need to invest in their own
+digital entrepreneurs and Small and Medium
+Enterprises, taking calculated risks on its own
+economic base rather than foreign multinationals.
+- Intelligent vehicles carry enormous potential for enhancing mobility in Africa, thus opening up unforeseen
+economic opportunities.
+
+Digital Infrastructure
+
+- A “democratization of innovation” should be promoted to regions outside of centralized tech hubs.
+- Digital technologies such as blockchain can increase the efficiency and transparency of government services,
+leading to impressive gains. For instance, Rwanda increased its annual revenue by 6 per cent through
+digitalization, while South Africa reduced tax collection costs by 22 per cent.
+- African governments should strive towards a Single Digital Market, thus encouraging investment and
+upscaling of digital capacities.
+- Industrialization is key to Africa’s development; the continent cannot develop if it does not add value to its
+raw materials.
+
+Digital Skills
+
+- Africa has several assets in launching its transition to the Fourth Industrial Revolution, most notably its young
+population relative to other regions; its flexibility and resilience; and its capacity for finding creative solutions
+to problems.
+- With respect to readiness for the Fourth Industrial Revolution, Africa needs to train and upskill its young
+people, especially with regard to STEM and “soft skills”, such as critical thinking, collaboration, creative
+thinking, adaptation skills.
+
+Cooperation
+
+- The mainstreaming of digitalization can promote a change of mindset towards multistakeholder
+collaboration for digitalization.
+- The international community should help to invest in digitalization regionally and explore innovative
+financing agreements; African governments cannot shoulder the burden of digital acceleration alone.
+- Policymakers need to establish better consultative processes with digital entrepreneurs, as in many contexts,
+policies are being developed without the input of the digital sector. Young people need to be respected as
+business leaders and the drivers of the Fourth Industrial Revolution in Africa.
+
+14
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+P L E N ARY SESSION HIG HL IG HTS
+
+DIGITAL SKILLS
+
+LOCAL INNOVATION
+
+“The will of the youth to change how things are is going to be
+essential for the Fourth Industrial Revolution. It is important to
+think how to educate our young people, we need to close the
+educational gap, we need to bet more on STEM [...] and to
+prepare our young people to use innovation to build a better
+continent”.
+
+“With the pandemic that we are currently going through, the one
+thing that has become clear is that local innovators can build
+incredible solutions for their economies, so all we are asking is that
+different governments begin to think about the money that they
+have to spend on technology, and basically give the hubs and
+innovators the opportunity to implement”.
+
+H.E. MR. PEDRO LOPES, CABO VERDE
+
+MS. NEKESA WERE
+
+DIGITAL COOPERATION
+
+INVESTMENT IN DIGITAL INFRASTRUCTURE
+
+“The Fourth Industrial Revolution should be able to determine
+who is supposed to be a part of it and come to the table. If we
+want Africa to change, we have to mainstream digitalization in
+all processes; there’s no exception at all. The people at the
+forefront are the governments, but they cannot run the
+business on their own. They need the private sector, academia,
+fintech, they need everyone to be apart of it. It’s not one
+person’s business, it’s the business of everyone everywhere”.
+
+“Since a lot of Lower Income Countries cannot share the burden
+of creating super-fast, reliable, affordable connectivity, especially
+for the bottom three billion who reside in Africa, African
+governments themselves cannot shoulder this responsibility, so
+the urgency of this investment cannot be stressed enough. Plus,
+the international community would have to help invest and
+explore innovative financing agreements with experimentation in
+emerging technologies”.
+
+Secretary of State for Innovation and TVET,
+Government of Cabo Verde
+
+MR. OLIVER CHINGANYA
+
+Director, Afrilabs
+
+MR. RAVI GUPTA
+
+Director, African Centre for Statistics
+
+CEO, Tambourine Innovation Ventures
+
+DIGITAL TRANSFORMATION
+
+INCLUSIVITY
+
+“We have a lot of strategies, policies. Let’s make a concrete
+action plan on how to get there by involving experts who
+know exactly what digitalization means, not only ICTs but
+digitalization according with manufacturing technologies.
+Industry is key to developing our countries”.
+
+“The digital sector is an industry; it is a business… I think one
+really important thing is that these are respected as business
+leaders, and not as fun, young people doing fun stuff. They are the
+ones who are going to drive our economies forward, and we
+cannot do that if we don’t respect them as full industry leaders”.
+
+PROFESSOR MBANG SAMA
+
+MS. REBECCA ENONCHONG
+
+Head of Digitalization, Mercedes-Benz Operations(Daimler)
+and Founder, Digital Transformation Al-liance
+
+CEO and Founder, AppsTech
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+15
+
+Several statistics illustrating the growth of the digital sector and its social benefits were shared during the
+session:
+
+The potential value of the
+African digital sector is primarily
+driven by the mobile revolution;
+around 80% of the population of
+Africa now has a mobile phone.
+
+The economic contribution of
+mobile phones accounts for
+7.6% of the continent’s GDP,
+at roughly 240 billion US
+dollars by the end of 2020.
+
+Countries such as
+Rwanda, Mauritania and
+Senegal have generated
+strong growth through
+e-commerce platforms.
+
+Around 260
+e-commerce start-ups
+were operating in
+Africa in 2017.
+
+16
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+Half of the world’s mobile phone
+operators are now present in
+Sub-Saharan Africa.
+
+The regional mobile money
+market is projected to be
+worth 14 billion US dollars
+by the end of 2020.
+
+The International Trade
+Center (ITC) identified
+630 business-to-consumer
+e-commerce market places
+operating in 2018, accounting
+for around 1.1 billion US
+dollars in trade.
+
+Mobile Economy in Sub-Saharan Africa
+UNIQUE MOBILE SUBSCRIBERS
+
+2019
+
+2025
+
+477m
+
+614m
+
+45
+
+%
+
+2019 - 2025
+CAGR: 4.3%
+
+MOBILE INTERNET USERS
+
+50%
+
+2025
+
+272m
+
+475m
+
+26
+
+SIM CONNECTIONS
+
+2019
+
+Excluding Licensed Cellular IoT
+
+816m
+
+77
+
+%
+
+2019 - 2025
+CAGR: 4.3%
+
+% OF POPULATION
+
+2019
+
+%
+
+2019 - 2025
+CAGR: 9.7%
+
+PENETRATION RATE
+
+PENETRATION RATE
+% OF POPULATION
+
+39%
+
+2025
+
+1.05bn
+PENETRATION RATE
+% OF POPULATION
+
+86%
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+17
+
+OPERATOR REVENUES AND INVESTMENT
+
+2019
+
+2025
+
+OPERATOR REVENUES
+
+OPERATOR REVENUES
+
+44.3bn
+
+48.7bn
+
+OPERATOR CAPEX OF $52 BILLION FOR THE PERIOD 2019 - 2025
+
+SMARTPHONES
+
+% OF TOTAL CONNECTIONS
+Excluding Licensed Cellular IoT
+
+4G
+
+18
+
+2019
+
+2025
+
+44%
+
+65%
+
+5G
+
+2019
+
+2025
+
+9%
+
+27%
+
+2025
+
+30m
+CONNECTIONS
+
+% OF TOTAL CONNECTIONS
+
+% OF TOTAL CONNECTIONS
+
+Excluding Licensed Cellular IoT
+
+Excluding Licensed Cellular IoT
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+3%
+
+MOBILE INDUSTRY CONTRIBUTION TO GDP
+
+2019
+
+155bn
+2025
+
+184bn
+
+9
+
+%
+
+OF GDP
+
+PUBLIC FUNDING
+
+2019
+
+17bn
+
+MOBILE ECOSYSTEM
+CONTRIBUTION TO
+PUBLIC FUNDING
+(Before regulatory
+and spectrum fees)
+
+EMPLOYMENT
+
+2019
+
+650,000
+
+JOBS FORMALLY
+SUPPORTED BY THE
+MOBILE ECOSYSTEM
+
++ 1.4m informal jobs
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+19
+
+The Way Forward
+
+Coordination and cooperation among continental institutions and strong partnerships at regional
+and global levels are essential to pursuing the digitalization agenda of the continent. The side event
+titled “Digital Transformation Strategy in Action: Developing a Roadmap towards the Fourth
+Industrial Revolution in Africa” enabled the identification of synergies and opportunities for
+enhanced collaboration between the public and business sector and the innovation ecosystem
+stakeholders, to achieve an inclusive, gender-responsive, sustainable digital transformation in Africa
+in the AfCFTA context.
+The event was a first step toward the development of a continental mapping of innovation and
+digitalization initiatives, policies, strategies and stakeholders, to improve coordination, identify
+potential synergies and support the scaling-up of pioneering initiatives. The consensus points from
+this side event will also be brought forward to inform the discussion on the implementation of the
+African Union Strategy for Digital Transformation (2020-2030), during the AU Assembly in February
+2021, as well as the AU Summit on Industrialization and Economic Diversification 2021.
+These will also feed into existing industrialization and digitalization endeavours on the UNIDO side,
+such as the Third Industrial Development Decade for Africa [IDDA III] (2016-2025) and the UNIDO
+Programme for Country Partnership [PCP] (several of which are being implemented in African
+countries).
+There is scope to accelerate digital cooperation and partnership initiatives for digital
+manufacturing between global and regional actors inter alia UNIDO, UNECA and the African Union.
+Leveraging such partnerships could significantly multiply the effectiveness of our respective
+interventions for advancing the digital transformation of Africa and its inclusive and sustainable
+industrial development.
+We look forward to harnessing our shared expertise, resources, convening power and networks in
+pursuit of these shared goals.
+
+20
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+A N N E X : PART I C I PAT I N G E N T IT IES
+
+ENTITY
+
+Government of Cabo Verde
+As State Secretary for Innovation and
+TVET, Cabo Verde, Mr. Lopes oversees a
+wide range of investment, digitalization,
+training and upskilling initiatives.
+Cape Verde's Digital Strategy (EDCV),
+seeks to advance "a connected Cape
+Verde, with itself and with the world,
+developed, inclusive, democratic, open to
+the world, modern, safe, where full
+employment and full freedom prevail ".
+
+INITIATIVES
+
+- Cabo Verde Digital is a government strategy to foster IT and
+technology solutions across all nine islands of the country,
+establishing the basis of a start-up ecosystem.
+- The Cabo Verde Digital Voucher is a government initiative to
+support 100 young people and 50 startups with pocket money,
+mentorship and incubation services alongside universities and
+IT companies as a way to help young entrepreneurs set up new
+tech companies and startups in Cabo Verde.
+- The Code for All programme is a free intensive training
+course in coding languages. It is set up for unemployed people
+with less than 35 years of age, fairly fluent in English, and
+besides the training, the program will also support the trainees
+with employment. Kode Verde is a partnership between Cabo
+Verde Digital and Academia de Código.
+- The government is investing in technology parks which foster
+capacity building in digital qualified human capital through
+training and developing an education curriculum for the young
+people in the nation.
+- The nation is training the unemployed into digital coders so
+that the use of 4IR technologies becomes the norm.
+
+AfriLabs
+AfriLabs is a network organization of
+225 innovation centres across 47
+African countries. It supports hubs to
+raise successful entrepreneurs that will
+create jobs and develop innovative
+solutions to African problems.
+AfriLabs aims to encourage technology,
+innovation and entrepreneurship in all
+forms; promote the creation of
+African-made technology; and provide
+an environment characterized by open
+collaboration, technical innovation
+and support for the technological
+community at large.
+
+- AfriLabs has established a capacity building program for
+digitalization called Digital Africa Seed Fund with the
+objective of strengthening African hubs through instituting an
+innovation ecosystem, while at the same time boosting
+investment in digital start-ups in the economy.
+- The Catalyst Program is a cross-stakeholder initiative of
+AfriLabs in conjunction with ABAN, the largest network of
+Angel Investors in Africa, that aims to strengthen
+entrepreneurs and start-ups, hubs and angel investors, while
+delivering impact results to institutional funders.
+- The EdTech Hub is a collaboration between the Overseas
+Development Institute, Faculty of Education at the University
+of Cambridge, Results for Development, Open Development
+and Education, Brink, Jigsaw Consult, BRAC, AfriLabs, and
+eLearning Africa.
+- Project Rollo is a capacity building program dedicated to
+inspiring and supporting Small African enterprises in African
+countries facing challenges to survive after Covid-19 outbreak.
+It is composed of an intensive online bootcamp where business
+owners and their teams will be asked to develop and execute
+strategies in a competitive risk-free environment with different
+market outlooks.
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+21
+
+ENTITY
+
+Tambourine Innovation Ventures
+Tambourine Innovation Ventures (TIV) is a
+technology and venture development firm
+dedicated to poverty alleviation and
+sustainable growth through innovation. The
+company’s core focus is on bringing
+technological innovations to market, with
+an emphasis on the Base of the Pyramid.
+They create, nurture and scale sustainable
+entrepreneurial ventures in emerging
+markets that have positive economic,
+environmental and social benefits.
+
+INITIATIVES
+
+- TIV has produced several knowledge products related to the
+Fourth Industrial Revolution and contributed to publications
+like the UNIDO document Industry 4.0 Opportunities Behind
+the Challenge.
+- In partnership with the AfDB, TIV developed a Study on
+Unlocking the Potential of the Fourth Industrial Revolution
+in Africa, researching on the adoption of 4IR technologies in
+Africa at the same time bringing awareness of the emerging
+technologies on the continent.
+- TIV utilized their technology commercialization and transfer
+expertise in a comprehensive road mapping and readiness
+as-sessment for digitalization in the sectors of greatest
+importance to the economy of Africa.
+- Insights from their broad and deep reservoir of expertise
+helps strengthen the capacity of ventures and clients to
+address challenges raised by technological advances,
+environmental concerns, increasing pressure on resources, and
+globalization.
+
+Digital Transformation Alliance
+The Digital Transformation Alliance
+(DTA) is a global, non-profit organization
+of leaders, entrepreneurs, institutions,
+communities from global digital and
+technology-based
+business
+and
+economy, united by our vision of a
+vibrant inclusive and sustainable
+innovation economy that benefits
+everyone.
+Its purpose is an inclusive, sustainable
+digital economy where everyone can
+access and master digital skills to create
+and shape one’s own future and thus
+achieve one’s own vision and a better
+quality of life.
+
+- DTA connects, shares, disseminates, showcases, empowers,
+ena-bles and co-creates content, solutions, and new
+opportunities. They advance excellence in education, research
+and entrepreneurship to support the growth of high-impact
+industries, the creation of high wage jobs and inclusive
+economic prosperity.
+- DTA is nurturing a strong multilateral ecosystem for a
+sustaina-ble digital and innovation economy through capacity
+building initiatives and the creation of Digit-Tech Factory Lab.
+- DITREX-Africa is a multi-sectorial technological innovation
+and experience platform organized by DTA and aimed to
+harnessing sustainable and inclusive development in African
+countries.
+- DTA also organizes Connected Classrooms, a smart
+framework for connected and interactive classrooms and
+universities to support an online learning market.
+- DTA has programmes to support policymakers, write reports
+and trends, conduct research, elaborate and establish
+standards to facilitate the development and transformation
+towards digitally sound infrastructures and platforms.
+
+22
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+ENTITY
+
+AppsTech
+AppsTech is a leading global provider of
+enterprise application solutions, offering a
+full spectrum of products and services to
+serve all enterprise software requirements,
+from architecting a solution, license sales,
+implementation, integration, training and
+application management services.
+
+INITIATIVES
+
+- AppsTech’s integrated solutions, powered by Oracle, help
+clients to streamline their operations, gaining greater visibility
+into their supply chains, optimize their assets, and better
+manage their human resources.
+- With offices on three continents, AppsTech has done work in
+over 25 countries and provided support to users in over 50
+countries.
+- Its founder, Ms. Rebecca Enonchong, has also co-founded and
+chaired the Africa Technology Forum, a Maryland-based
+nonprofit initiative to encourage and educate Africans, women
+in particular, on the use of technology.
+- She also co-founded and chairs ActivSpaces (African Center
+for Technology Innovation and Ventures), Cameroon's Leading
+Tech Hub.
+
+African Centre for Statistics
+The African Centre for Statistics of
+UNECA aims to be the first port of call
+for African states seeking original data
+to inform policy decisions and to serve
+as a regional service centre for data on
+economic, social, demographic, and
+environmental conditions in African
+countries.
+
+- The Centre published several articles on Digitalization, the
+role of digitalization in the Decade of Action for Africa,
+Digital Africa and others articulating the need for Africa to
+harness digitalization, especially now with the Covid-19
+pandemic hovering worldwide.
+- The Centre has also released several publications on the
+role of open data such as the Africa Data Revolution Report
+2018 and on the impact of Covid-19.
+- UNECA is hosting events which accelerate the awareness of
+industry 4.0 technologies to promote adaptation to and
+investment in emerging technologies, i.e. The Nanotech
+Innovation and Investment Forum, for a transformed and
+prosperous Africa, taking place in December 2020.
+- UNECA also embarked on the digital initiative DITE for
+Africa to support African countries in fully harnessing the
+opportunities of digital identity (ID) to facilitate the provision
+of legal identity for all Africans and to leverage digital trade
+in the AfCFTA.
+
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION
+
+23
+
+Vienna International Centre | P.O. Box 300 | 1400 Vienna | Austria
+Tel.: (+43-1) 26026-0 | unido@unido.org
+www.unido.org
+
+
